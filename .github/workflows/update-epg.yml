@@ -5,6 +5,13 @@ on:
     # 04:17 Guatemala time (10:17 UTC), every day
     - cron: "17 10 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "channels.txt"
+      - "build_epg.py"
+      - ".github/workflows/update-epg.yml"
 
 permissions:
   contents: write
