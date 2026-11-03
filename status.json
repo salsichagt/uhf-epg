@@ -1,18 +1,18 @@
 {
-  "updated_utc": "2026-11-02T11:07:31.061016+00:00",
+  "updated_utc": "2026-11-03T11:01:17.390818+00:00",
   "requested_unique_channels": 85,
   "found_channels": 85,
   "missing_channels": [],
-  "programmes": 6505,
-  "window_start_utc": "2026-11-02T03:07:31.061016+00:00",
-  "window_end_utc": "2026-11-05T11:07:31.061016+00:00",
-  "epg_xml_bytes": 5578069,
-  "epg_gz_bytes": 1818926,
+  "programmes": 6547,
+  "window_start_utc": "2026-11-03T03:01:17.390818+00:00",
+  "window_end_utc": "2026-11-06T11:01:17.390818+00:00",
+  "epg_xml_bytes": 5636054,
+  "epg_gz_bytes": 1838649,
   "sources": {
     "au": {
       "requested_channels": 2,
       "found_channels": 2,
-      "programmes": 132,
+      "programmes": 133,
       "source": "https://iptv-epg.org/files/epg-au.xml.gz"
     },
     "ca": {
@@ -24,19 +24,19 @@
     "mx": {
       "requested_channels": 1,
       "found_channels": 1,
-      "programmes": 186,
+      "programmes": 189,
       "source": "https://iptv-epg.org/files/epg-mx.xml.gz"
     },
     "uk": {
       "requested_channels": 23,
       "found_channels": 23,
-      "programmes": 1577,
+      "programmes": 1564,
       "source": "https://iptv-epg.org/files/epg-gb.xml.gz"
     },
     "us": {
       "requested_channels": 58,
       "found_channels": 58,
-      "programmes": 4542,
+      "programmes": 4593,
       "source": "https://iptv-epg.org/files/epg-us.xml.gz"
     }
   }
