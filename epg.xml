@@ -32,6 +32,10 @@
     <display-name>US - CBS SPORTS NETWORK</display-name>
     <icon src="https://iptv-epg.org/images/6wbgCLhlIz-WtF89M1Hthe4cFtfEOvpHtfCF-npIPPJ7oH2vjiB5v18VKgd2rCwvWNB7PxHcTV1j6DABXHdHqZH3O9jBpgoLvNf9wnaLtTruLEuv4y0" />
   </channel>
+  <channel id="CBSWTVY.us">
+    <display-name>US - CBS WTVY Dothan AL</display-name>
+    <icon src="https://iptv-epg.org/images/1Hwqpa_0yhbzt7hoFUsvgaC0ZrLAcy9eJNxQ-h--NpeTV-vDAcbnMgtFXasmAvLMeCSASv-Imgjw53vucXIL5Dk8oAW1pGQDs4Hjsls" />
+  </channel>
   <channel id="CBSWest_KCBS.us">
     <display-name>US - CBS West KCBS</display-name>
     <icon src="https://iptv-epg.org/images/jquXIYkHajx8IymTApEC_wOWWLfbtUHCr0cms3y719BPfIO29Az_Pcb14jaO6nggkcfihSf9otDAA841m9AV-kuzbQu9I8_xW-hcha0xfYgd0Q" />
@@ -1121,6 +1125,16 @@ Recapping action from the Global Champions Tour.</desc>
     <icon src="https://iptv-epg.org/images/JJ0E9D-7sFa0CrJKGgbrz5LCV3ZAhsyOWHUKqjIVYrL0eZUWjbnHyeKPcc0Hiu-uceF5K0R1E-_zJCJVt7ySpbbkosA2bV4evAvCpMbi4qA" />
     <previously-shown />
     <title lang="en">Global Champions: The Ultimate Show Jumping Journey</title>
+  </programme>
+  <programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E44 — Less Is More Week
+David Muir (ABC's "World News Tonight"); Monica Mangin shares deals to get a jump on Black Friday; Walker Scobell (Disney's "Percy Jackson and the Olympians"); Barbara Costello.</desc>
+    <episode-num>S05 E44</episode-num>
+    <icon src="https://iptv-epg.org/images/hwTToNXNMPcUnsp30PBvh5d4IHl9-Zqfr-98gaQBEhNrZFso20D0eyEQ8Y0w5L94TT1eafydpWWY_D5vEzeqxCqDGF12RwUvAycxKhCA7cg" />
+    <title lang="en">Live with Kelly and Mark</title>
+    <new />
   </programme>
   <programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -2257,6 +2271,16 @@ Recapping action from the Global Champions Tour.</desc>
     <icon src="https://iptv-epg.org/images/JJ0E9D-7sFa0CrJKGgbrz5LCV3ZAhsyOWHUKqjIVYrL0eZUWjbnHyeKPcc0Hiu-uceF5K0R1E-_zJCJVt7ySpbbkosA2bV4evAvCpMbi4qA" />
     <previously-shown />
     <title lang="en">Global Champions: The Ultimate Show Jumping Journey</title>
+  </programme>
+  <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S55 E36
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S55 E36</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <title lang="en">The Price Is Right</title>
+    <new />
   </programme>
   <programme start="20261109160000 +0000" stop="20261109163000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Adventure</category>
@@ -3397,6 +3421,30 @@ Barry hopes to expand his collection of oddities; a rare bonus is discovered in 
     <icon src="https://iptv-epg.org/images/AMsUGClPMd-xhzDC9jYPBwf49vcs34S-N4U9fVU1XX0-NZ_qPfRUJQ0mXZ797lguSRtvpQ_VyzdLUjVO4zseJksK9FHi9jMF5GPu17C2zPs" />
     <title lang="en">The Early Edge</title>
     <live />
+  </programme>
+  <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S54 E23
+Adam overstays his welcome; Claire pushes Audra's buttons; Abby shares concerns about her health with Devon; Phyllis reveals a new business plan.</desc>
+    <episode-num>S54 E23</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
   </programme>
   <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
@@ -4581,6 +4629,13 @@ Hear news and updates from coaches and players from around the Big Ten conferenc
     <title lang="en">College Football Insiders</title>
     <new />
   </programme>
+  <programme start="20261109180000 +0000" stop="20261109183000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">The latest local stories, breaking national news, weather and live interviews with community leaders about local events.</desc>
+    <icon src="https://iptv-epg.org/images/3Oc_a_QNhgWimke9CFbAt7Kqb79iBejjpGahsy_5Nqjt36Mdf0NNycTcfN_uSBWdwmsxsXepyjCOWq634wxmlLBswOv1oapw2Sb5vG3oiho" />
+    <title lang="en">Live at Lunch</title>
+    <new />
+  </programme>
   <programme start="20261109180000 +0000" stop="20261109190000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
     <category lang="en">Series</category>
@@ -5467,6 +5522,32 @@ An unfiltered look at police departments in action.</desc>
     <previously-shown />
     <title lang="en">Live PD: Police Patrol</title>
   </programme>
+  <programme start="20261109183000 +0000" stop="20261109190000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S40 E45
+Will gets shocking details about his parents; Daphne tries to shed new light on Steffy's surrogacy.</desc>
+    <episode-num>S40 E45</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
   <programme start="20261109183000 +0000" stop="20261109184500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -5861,6 +5942,31 @@ An unfiltered look at police departments in action; people are arrested for mari
     <desc lang="en">Sports news and highlights.</desc>
     <icon src="https://iptv-epg.org/images/ddb4SfYOOX4wGEA1mHOS0YwNRUl0l5h3dbWrFS9sRuN8hcTkf97gyES2gigKmwE2Ay5N0jAZyram47-VJFtscxPg4lM8sBrbDL5NTBjTG90" />
     <title lang="en">CBS Sports HQ Spotlight</title>
+    <new />
+  </programme>
+  <programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E207
+Anita and Vernon remember simpler times; Naomi breaks up girls' night with a pressing point for Dani and Chelsea; Bill gets answers about what's ahead.</desc>
+    <episode-num>S02 E207</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
     <new />
   </programme>
   <programme start="20261109190000 +0000" stop="20261109193000 +0000" channel="CBSWest_KCBS.us">
@@ -6992,6 +7098,16 @@ A highway chase in South Carolina, a car wreck in Maryland and a stolen cop car 
     <icon src="https://iptv-epg.org/images/9Xo5On05Wj1q5yyUJlqInD28gqh4oHGhRKR9s670N6UE4lEbbiHuDP_NEixIY8x0o5ttJFTpl3Q_1fq-nuPajveSjgMKTCOY6dqIEV6UdtE" />
     <previously-shown />
     <title lang="en">Live PD: Police Patrol</title>
+  </programme>
+  <programme start="20261109200000 +0000" stop="20261109210000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S18 E36
+Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.</desc>
+    <episode-num>S18 E36</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <title lang="en">Let's Make a Deal</title>
+    <new />
   </programme>
   <programme start="20261109200000 +0000" stop="20261109210000 +0000" channel="CWKTLA.us">
     <category lang="en">News</category>
@@ -8232,6 +8348,14 @@ The No. 12 Ohio State Buckeyes (6-2) host the No. 23 Oregon Ducks (5-3) at Ohio 
     <title lang="en">College Football</title>
     <new />
   </programme>
+  <programme start="20261109210000 +0000" stop="20261109213000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Exploring the challenges and triumphs of aging, and celebrating the wisdom, strength and beauty that come with life's later stages.</desc>
+    <icon src="https://iptv-epg.org/images/H4pJk_qFOKa5ADeqWeUfp4kv2-OlFj7MH7IGDHNgnYMBQAphOno3KEvs5nhKPRv-DBF8kpGcCpbXOLnEQUN2w-I9kfeEPWWSv0LK-zfSosc" />
+    <title lang="en">Aging Untold</title>
+    <new />
+  </programme>
   <programme start="20261109210000 +0000" stop="20261109220000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Drama</category>
     <category lang="en">Soap</category>
@@ -8845,6 +8969,12 @@ An unfiltered look at police departments in action.</desc>
     <previously-shown />
     <title lang="en">Live PD: Police Patrol</title>
   </programme>
+  <programme start="20261109213000 +0000" stop="20261109220000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <desc lang="en">Local Mingle</desc>
+    <icon src="https://iptv-epg.org/images/yoY4QHl3ljgyYfYVAdvXVjNFaPVQNAK_RRuXiMDu4XlUgX5QsPMr-JwtKiKDkiJw13wq_5K6_OuFvsb8anqXstuDd2b7INXrOaDUDGi2QrQ" />
+    <title lang="en">Local Mingle</title>
+  </programme>
   <programme start="20261109213000 +0000" stop="20261109214500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
@@ -9306,6 +9436,13 @@ An unfiltered look at police departments in action; Police in Texas point guns a
     <icon src="https://iptv-epg.org/images/gps-2N3-M89BT83DnZB6vf_e9pD_DJx0rw70YQJ8CcQJ8PXnvrRWEGbbyySKJvGI1H2km28qyptlog7f8fLbJPKAUG1Nnqb1fPTF662Ou2c" />
     <previously-shown />
     <title lang="en">B1G Today</title>
+  </programme>
+  <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/xbP2ix2RX2NzjqNinfdatVb3CKDfuiBL0jI3EeWOXXSm0_oxZTSzaJQxYAOy-4K076BLyb7zyjgLTyUPlcYCUZA8wQwZX1uv6yVGc5wY0OI" />
+    <title lang="en">News First at Four</title>
+    <new />
   </programme>
   <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Entertainment</category>
@@ -10154,6 +10291,18 @@ An unfiltered look at police departments in action.</desc>
     <previously-shown />
     <title lang="en">Live PD: Police Patrol</title>
   </programme>
+  <programme start="20261109223000 +0000" stop="20261109230000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E41
+A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num>S39 E41</episode-num>
+    <icon src="https://iptv-epg.org/images/rMjZ3q3JiJwUFN2BvUphy7bFzjrWjTT393Fwpv3PMw3qI4uHmf3hd7fyM_fbUq4ZSE-_KCzqSkbMGPcIJ-QzJZXNqmbe72O0OVGWKpEyge4" />
+    <title lang="en">Inside Edition</title>
+    <new />
+  </programme>
   <programme start="20261109223000 +0000" stop="20261109230000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Entertainment</category>
     <category lang="en">Talk</category>
@@ -10536,6 +10685,14 @@ The Marshall Thundering Herd visit the Ohio State Buckeyes for an NCAA Division 
     <icon src="https://iptv-epg.org/images/n1pZDe539aobX8urxNEKrPy0SKCvenNzFMOQl8TXy7YhycMb_1nnO3xS7uwK4C_er96MchRMhMUqjksYgramAgDSllcoAz62FJbSuxJ4HhY" />
     <title lang="en">College Basketball</title>
     <live />
+  </programme>
+  <programme start="20261109230000 +0000" stop="20261109233000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">News</category>
+    <desc lang="en">News4 at 5p</desc>
+    <icon src="https://iptv-epg.org/images/DwRK0CMRpoJYPJw4y-HbKRNIDYwCwHb1vZvn-4d2iAFylIvODsVNi7MEHGE7NCpK3_pHOUc5b_GBZsWU5vHMIYpBTRBJLj8H4iwFiHQ0jlY" />
+    <title lang="en">News4 at 5p</title>
+    <new />
   </programme>
   <programme start="20261109230000 +0000" stop="20261109233000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Law</category>
@@ -11220,6 +11377,14 @@ As Taylor and Byrne prepare for court, paranoia spreads through the firm; Johnny
     <title lang="en">ABC World News Tonight With David Muir</title>
     <new />
   </programme>
+  <programme start="20261109233000 +0000" stop="20261110000000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
   <programme start="20261109233000 +0000" stop="20261110000000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Law</category>
     <category lang="en">Reality</category>
@@ -11734,6 +11899,13 @@ In Pasco County, K9 Shep sniffs out success.</desc>
 A look at the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.</desc>
     <icon src="https://iptv-epg.org/images/RVKZywSoUn04CB5OWVbxxT4nWUVDAw16O62-C1qmBIxSKtJ7YTNPLRcgaF7Ov_XMmI2OUjqp9mUXaFHZKvZLrAffl5PhS1ay4lpqzCeIEQA" />
     <title lang="en">UFC Countdown</title>
+    <new />
+  </programme>
+  <programme start="20261110000000 +0000" stop="20261110003000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/9-WeQOy0D7Biqz8TX9N0-ccAF4VDanMx2C3cE7LQV1kKpfY9xFcpxdqjPA2M58PjZBLi26TW_xpdA3M7Nrnx5dH_mxzXv2uEidI0Snxbb6I" />
+    <title lang="en">News 4 at 6p</title>
     <new />
   </programme>
   <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="CBSWest_KCBS.us">
@@ -12406,6 +12578,16 @@ Comedian John Oliver hosts an in-depth, satirical look at developments from the 
     <previously-shown />
     <title lang="en">Last Week Tonight With John Oliver</title>
   </programme>
+  <programme start="20261110003000 +0000" stop="20261110010000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S44 E41 — Live More Floridays
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S44 E41</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <title lang="en">Wheel of Fortune</title>
+    <new />
+  </programme>
   <programme start="20261110003000 +0000" stop="20261110010000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
@@ -12733,6 +12915,28 @@ Showcasing the best fights from recent events, revealing backstories of the athl
     <icon src="https://iptv-epg.org/images/V_w8miaIMw9-0SqjMoBfwp0EHmh32CByyqGwUz68BR0kfpxacVCB_x4x7MZ2Nh5DY9b7e-RytnLvvFYmlPZInQHDhusdvdZRYbQYF8Lhy8U" />
     <previously-shown />
     <title lang="en">UFC Main Events</title>
+  </programme>
+  <programme start="20261110010000 +0000" stop="20261110020100 +0000" channel="CBSWTVY.us">
+    <category lang="en">Action</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Jeremy Sisto</actor>
+      <actor>Alana De La Garza</actor>
+      <actor>John Boyd</actor>
+      <actor>Katherine Renee Kane</actor>
+      <actor>Juliana Martinez</actor>
+      <actor>Ebonée Noel</actor>
+      <actor>Sela Ward</actor>
+    </credits>
+    <desc lang="en">S09 E06 — Ultimatum
+A highly radioactive material is stolen from a medical disposal facility, sending the team to track down the thief; after Eva goes to check on her mom, she finds herself in the middle of a fragile situation on the Staten Island Ferry.</desc>
+    <episode-num>S09 E06</episode-num>
+    <icon src="https://iptv-epg.org/images/df21JZYqtFYITQfq3B1UKwAnel0qGGFaGS2sKhE5bpr3YI5QtAg_-PoxrqmdW-lvK8wdXm-XysmWKTR2yh7_U5jvXI6fHWwtZtwsCNGqVvU" />
+    <title lang="en">FBI</title>
+    <new />
   </programme>
   <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -14448,6 +14652,22 @@ When the body of a 14-year-old girl is found in the Hudson River, Benson and Sta
     <previously-shown />
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
   </programme>
+  <programme start="20261110020100 +0000" stop="20261110030000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Crime drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Tom Ellis</actor>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Necar Zadegan</actor>
+      <actor>Natalee Linez</actor>
+    </credits>
+    <desc lang="en">S02 E06 — Legacy
+A targeted explosion rocks the Upper East Side and kills an international arms dealer.</desc>
+    <episode-num>S02 E06</episode-num>
+    <icon src="https://iptv-epg.org/images/tyyQ4OUys9DQHyLAqAQkEJnAFKQ9lUy3sY_PBkPQ2bsdB80XSpqVf_FemV48X6jiNseXIuZGG7UCAQ1HsVzZTzQgJevjTTrOfmfPcIR8Geo" />
+    <title lang="en">CIA</title>
+    <new />
+  </programme>
   <programme start="20261110020100 +0000" stop="20261110030000 +0000" channel="FOXWJBK.us">
     <category lang="en">Game show</category>
     <category lang="en">Series</category>
@@ -14984,6 +15204,16 @@ From Global Credit Union Arena at GCU in Phoenix.</desc>
     <icon src="https://iptv-epg.org/images/drmvsEVwrSoRuJEMK3waHW4X90u_9nynHL1d0caqYMx2-fK6ug2U0XRzCwgQrJaKfglRdD5_z2e5UY-PAheJeCgIZ3tm6Z1Yiqnlt3bMGyw" />
     <title lang="en">Women's College Basketball</title>
     <live />
+  </programme>
+  <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Crime</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E06 — State Secrets
+A former Arkansas state senator is found dead in her home, her body wrapped in a tarp; investigators begin to ask whether her political past made her a target.</desc>
+    <episode-num>S02 E06</episode-num>
+    <icon src="https://iptv-epg.org/images/sHANPRR1pLIUmaFO8YHzi5a5T1BUfrHb-hUw349BwRTuzh0ZkFgzYnDjKjA2pehrtUp42CYcCf6qvOMDQ7f4qEkxcC-FHEX0vCk3LmDRhGQ" />
+    <title lang="en">Harlan Coben's Final Twist</title>
+    <new />
   </programme>
   <programme start="20261110030000 +0000" stop="20261110033000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Interview</category>
@@ -16140,6 +16370,13 @@ Diego y su hermanos se unen para derrotar a Ayrton y restablecer la paz entre am
     <icon src="https://iptv-epg.org/images/saPI-o1I169t40FpiIDXqLEalgYazm3sa0yKiI2wgdwFpolqtwirTEtk-vCnpsbEXIXYDm-NHmWlXNBL-yfdvQ91Da1BrT1KRULCV1inFS5e0FyviEuJWkCSEt00nbJW-9IR1H6YbesV58bpksdkYmRRGjbSIJpqWwsS9yWpIc6drlIKpNz7KdOpSgxmx916cFwnZnF_PBNrtHpmTf-JhQHyMyfIIfnjdBASYqcEbvSEDFp-cwSMsFdRMcQNMBdxJvXiDr6G5aYBim-nnHBiXNiAx0C-IpbvSI2tnrI6hYMrG1sTR687xlojUXidpd5Ykh7WdSgg" />
     <title lang="en">Karate Kid: Legends</title>
   </programme>
+  <programme start="20261110040000 +0000" stop="20261110043500 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/7y1cIwk21BvoRI1OcQRJk38SWd38h6hEE_y0N0SZ2O4eq9Pf9iRJUBMmiFOtXhINhskUe6wsGpIzyIEmdOfO539AAwBSInSltZR9fz7xT9c" />
+    <title lang="en">News 4 at 10</title>
+    <new />
+  </programme>
   <programme start="20261110040000 +0000" stop="20261110050100 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Action</category>
     <category lang="en">Crime drama</category>
@@ -17054,6 +17291,16 @@ Actor Pete Davidson; actress Meghann Fahy; actress Léa Seydoux; "Ask This Old H
     <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
     <new />
   </programme>
+  <programme start="20261110043500 +0000" stop="20261110050500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E154 — Hannah Veldhoen; JJ From The Sipp; Mike P. Burton; Paul Morrissey
+Hannah Veldhoen; JJ From The Sipp; Mike P. Burton; Paul Morrissey.</desc>
+    <episode-num>S04 E154</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+    <new />
+  </programme>
   <programme start="20261110043500 +0000" stop="20261110050000 +0000" channel="TelemundoWSCV.us">
     <category lang="en">News</category>
     <category lang="en">Public affairs</category>
@@ -17842,6 +18089,16 @@ Officers in Warwick respond to a car accident in the woods; a suspected stolen c
     <previously-shown />
     <title lang="en">Live PD: Greatest Shifts</title>
   </programme>
+  <programme start="20261110050500 +0000" stop="20261110053500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E24 — Carmen Morales; Matt Lockwood; Brandon Vestal; Jay Reid
+Carmen Morales; Matt Lockwood; Brandon Vestal; Jay Reid.</desc>
+    <episode-num>S04 E24</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
   <programme start="20261110050500 +0000" stop="20261110071000 +0000" channel="ShowtimeExtreme.us">
     <category lang="en">Musical</category>
     <category lang="en">Movie</category>
@@ -18398,6 +18655,17 @@ Poyraz hace un último intento para que Aliye lo acompañe a la celebración que
     <desc lang="en">Years after the tragic death of their daughter, a former toy maker and his wife welcome a nun and six orphaned girls into their farmhouse. Terror soon strikes when one child finds a seemingly innocent doll that appears to have a life of its own.</desc>
     <icon src="https://iptv-epg.org/images/68vgCYgb0VwDANfMFeUAZWZzdlGDHT9E-kSe3s1jYSnZ9GPMqx_XYp5GQ62OrSzlvF0_Hbgzd5nuA8_iOup_lNFNLU9_aBDDvFyiV1YKLVc" />
     <title lang="en">Annabelle: Creation</title>
+  </programme>
+  <programme start="20261110053500 +0000" stop="20261110060500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S10 E17 — Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams
+Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.</desc>
+    <episode-num>S10 E17</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <title lang="en">Funny You Should Ask</title>
+    <new />
   </programme>
   <programme start="20261110053500 +0000" stop="20261110072000 +0000" channel="SkyCinemaHits.uk">
     <category lang="en">Film</category>
@@ -19131,6 +19399,17 @@ Anne es nombrada líder de la Resistencia Wartwood, a pesar de que no es muy bue
     <title lang="es">Anfibilandia</title>
     <title lang="en">Amphibia</title>
   </programme>
+  <programme start="20261110060500 +0000" stop="20261110063500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S09 E24
+Adam Carolla; Jackée Harry; Billy Gardell; Byron Allen; Annie Lederman; Brad Williams.</desc>
+    <episode-num>S09 E24</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
   <programme start="20261110060700 +0000" stop="20261110075700 +0000" channel="HBO.us">
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -19466,6 +19745,18 @@ The Smith's rescue Steve after he's kidnapped and taken to the North Pole, where
     <icon src="https://iptv-epg.org/images/R8RDvIl4VpODIcIwiUGtKsyrpjXpR79k-YxhrnS1ccYbjmZDwX48BM8XjEOzsCGTHaUC2xCXT456yQIW2h4XNh2hb2c4NhNFNYZFMI5O6Nw" />
     <previously-shown />
     <title lang="en">American Dad!</title>
+  </programme>
+  <programme start="20261110063500 +0000" stop="20261110070500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E41
+A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num>S39 E41</episode-num>
+    <icon src="https://iptv-epg.org/images/rMjZ3q3JiJwUFN2BvUphy7bFzjrWjTT393Fwpv3PMw3qI4uHmf3hd7fyM_fbUq4ZSE-_KCzqSkbMGPcIJ-QzJZXNqmbe72O0OVGWKpEyge4" />
+    <title lang="en">Inside Edition</title>
+    <new />
   </programme>
   <programme start="20261110063500 +0000" stop="20261110085000 +0000" channel="SkyCinemaDrama.uk">
     <category lang="en">Drama</category>
@@ -20154,6 +20445,27 @@ In Greene, officers discover a strange find during a routine traffic stop.</desc
     <previously-shown />
     <title lang="en">Live PD: Greatest Shifts</title>
   </programme>
+  <programme start="20261110070500 +0000" stop="20261110073500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Jon Cryer</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Angus Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+    </credits>
+    <date>2005</date>
+    <desc lang="en">S02 E22 — That Old Hose Bag Is My Mother
+After taking a loan from Evelyn, Alan is guilted into double-dating with her, her new romantic interest and his daughter.</desc>
+    <episode-num>S02 E22</episode-num>
+    <icon src="https://iptv-epg.org/images/u6fbeSww6F8tOD_xDyD7c_ZZC0MEFLoKTt1U2bUAtDdWHEe9xCz-v-ehxOEJnDnMj45n8GNyRiSrohHMhQdgrTnkFQQJbGBI7-I6qINpIcY" />
+    <previously-shown />
+    <title lang="en">Two and a Half Men</title>
+  </programme>
   <programme start="20261110070500 +0000" stop="20261110083000 +0000" channel="SkyCinemaFamily.uk">
     <category lang="en">Children's</category>
     <category lang="en">Film</category>
@@ -20625,6 +20937,16 @@ Actor Bill Murray; author Andy Richter; Sy Smith sits in with The Cletones.</des
     <episode-num>S25 E32</episode-num>
     <icon src="https://iptv-epg.org/images/HmPgozQ125Dwl8aqfq9ltvScUEPjnS8VPkIpqlt474FypOmZLEmlQXVAPNkBm_Ypn6Zr36OTPc9wJKljK2JAysHyzhLzRCBnmj2mU7m-KzU" />
     <title lang="en">Jimmy Kimmel Live!</title>
+    <new />
+  </programme>
+  <programme start="20261110073500 +0000" stop="20261110080500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Bus./financial</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S12 E48 — Dealing With Debt; Scam Alert
+An entertaining daily business news show giving everyday Americans an edge in the stock market straight from the trading floor.</desc>
+    <episode-num>S12 E48</episode-num>
+    <icon src="https://iptv-epg.org/images/L2y2BEfyASZ8TotqgMySttAzV3gu7fqeDUlapmsvoGSzrD-_zKERhim_8-Xo_mCyyVq3t2lb_ZaPqej3_CZnvubMabGuaAPoMlqpHZ_jhE0" />
+    <title lang="en">Business First With Angela Miles</title>
     <new />
   </programme>
   <programme start="20261110073500 +0000" stop="20261110080500 +0000" channel="CBSWest_KCBS.us">
@@ -21443,6 +21765,14 @@ An attempted robbery sends officers on a pursuit in Pasco; a vehicle search in G
     <icon src="https://iptv-epg.org/images/cFkdo9FKUXro05qnnpB2g08YPZBH26TUNNKyJYvq9mPnEUfcdFsCsM5G2oPwrjkRQEmiaJOJm7jixnYhdEJa_zcZjp8tK15ftLw9ITmX-mQ" />
     <previously-shown />
     <title lang="en">Live PD: Greatest Shifts</title>
+  </programme>
+  <programme start="20261110080500 +0000" stop="20261110103000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
   </programme>
   <programme start="20261110080500 +0000" stop="20261110083500 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Comedy</category>
@@ -23994,6 +24324,14 @@ The boys unwittingly re-enlist under their old sergeant.</desc>
     <icon src="https://iptv-epg.org/images/r3XoRBRgLcJnHp43lfw_ZojhPJyggWiVuTUWtVARQ96c3N3zyXApnJteKabap5DDPQXTJw7jhQm-4UaCu7xSsRMxEdAPkrwrMUYId_FZ3gA" />
     <title lang="en">The B1G Show</title>
   </programme>
+  <programme start="20261110103000 +0000" stop="20261110110000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
   <programme start="20261110103000 +0000" stop="20261110110000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Action</category>
     <category lang="en">Anime</category>
@@ -24480,6 +24818,13 @@ Ladybug y Cat Noir no solo enfrentarán a Hawk Moth, sino también a la villana 
     <icon src="https://iptv-epg.org/images/1bkISbZkNDT8FCysTEHDiZAgDfL6CJVOWErCSw2tj9-d6lhvzn5KsPxnle9--XyV-GkBziIOG0RPJb8N0Se6DHBI0PF4UhKFKWJWpS0Ang8" />
     <title lang="en">Boomer and Gio</title>
     <live />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110113000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/63PUA4GAUx-DCFLBvTvVbb5rvfpQ_JEhFAgpfpbBzZcSBSQgjk0kSMBWh0zlSTTO7tdOj6JbsYOqTCLwtmbGr6HrEBOrT8yS3MKtrFd5f0w" />
+    <title lang="en">Today in Alabama 5:00</title>
+    <new />
   </programme>
   <programme start="20261110110000 +0000" stop="20261110111200 +0000" channel="CartoonNetwork.us">
     <category lang="en">Adventure</category>
@@ -25310,6 +25655,13 @@ The gang helps Muscle Man and Starla on their wedding day, but it's Mordecai who
     <icon src="https://iptv-epg.org/images/r3XoRBRgLcJnHp43lfw_ZojhPJyggWiVuTUWtVARQ96c3N3zyXApnJteKabap5DDPQXTJw7jhQm-4UaCu7xSsRMxEdAPkrwrMUYId_FZ3gA" />
     <title lang="en">The B1G Show</title>
   </programme>
+  <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/_ZGP8n-QYcy-iZTAJTf0qxf5BJX7pqHUPnPwD_eMYSrVlKiqhwO4xyO-__DkNha91oRGsl4AHsY-GbR4y48-JtNhDlRiksis1TLGc1AP-yI" />
+    <title lang="en">Today In Alabama 5:30</title>
+    <new />
+  </programme>
   <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="CWKTLA.us">
     <category lang="en">Law</category>
     <category lang="en">Reality</category>
@@ -25881,6 +26233,13 @@ The bidders return to the Dallas suburb of Carrollton; Ricky and Bubba uncover a
     <desc lang="en">An inside look at what's going on around the Big Ten including interviews, guests and in-depth analysis.</desc>
     <icon src="https://iptv-epg.org/images/r3XoRBRgLcJnHp43lfw_ZojhPJyggWiVuTUWtVARQ96c3N3zyXApnJteKabap5DDPQXTJw7jhQm-4UaCu7xSsRMxEdAPkrwrMUYId_FZ3gA" />
     <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/fLQHIGgePETDQW94I_qT4EYY1u0WFBcaSeGcry_8EygOFXFZsmOpPOl8nWmHlueF23G1Yc8YcEep1RE93nucWiZmH7KI3vUmFOc7-zdl4PY" />
+    <title lang="en">News 4 This Morning at 6a</title>
+    <new />
   </programme>
   <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -27041,6 +27400,15 @@ The buyers look for deals in City of Industry, Calif.; Dave makes a profit; Barr
     <icon src="https://iptv-epg.org/images/roZl_2gxcRv5hxAELegU--8eB0iNIJSCMObloQ0t6kH7JSLePUG4iorl1n1OYZz1zg8Lvf46-5gs_MeMyEXZvy7lMiMCWJYKcCPjCvLy44o" />
     <previously-shown />
     <title lang="en">Storage Wars</title>
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110150000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Author Lauren Sánchez Bezos; Oprah's Book Club selection announced by Oprah Winfrey.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
   </programme>
   <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -29450,6 +29818,16 @@ From Sept 23-24, 2026 in San Luis Obispo and Avila Beach, California.</desc>
     <previously-shown />
     <title lang="en">Rodeo</title>
   </programme>
+  <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E45 — Less Is More Week
+Chris O'Donnell (ABC's "9-1-1 Nashville"); Andie MacDowell; Lora McLaughlin Peterson; Monica Mangin shares deals to get a jump on Black Friday.</desc>
+    <episode-num>S05 E45</episode-num>
+    <icon src="https://iptv-epg.org/images/hwTToNXNMPcUnsp30PBvh5d4IHl9-Zqfr-98gaQBEhNrZFso20D0eyEQ8Y0w5L94TT1eafydpWWY_D5vEzeqxCqDGF12RwUvAycxKhCA7cg" />
+    <title lang="en">Live with Kelly and Mark</title>
+    <new />
+  </programme>
   <programme start="20261110150000 +0000" stop="20261110170000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
     <category lang="en">Talk</category>
@@ -30658,6 +31036,16 @@ A look at the lives and training camps of UFC athletes as they prepare for the n
     <previously-shown />
     <title lang="en">UFC Countdown</title>
   </programme>
+  <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S55 E37
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S55 E37</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <title lang="en">The Price Is Right</title>
+    <new />
+  </programme>
   <programme start="20261110160000 +0000" stop="20261110163000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Adventure</category>
     <category lang="en">Animated</category>
@@ -31746,6 +32134,30 @@ At a fast-food restaurant in Florissant, Missouri, tensions rise when the husban
     <icon src="https://iptv-epg.org/images/xwky1KjUjlU_oE1Y5P9RvJdIniIhwuq1mDrrQ2HJQNKB8bUHh1Q3bfqL3Q4ItRnpJsU5C30xq51Y_z9hEZ59LLetFbQ5DJRboPDF3AMyAkg" />
     <title lang="en">UEFA Women's Champions League Today</title>
     <live />
+  </programme>
+  <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S54 E24
+Victor and Jack settle unfinished business; Traci receives a special request; Nikki questions Sharon's loyalty.</desc>
+    <episode-num>S54 E24</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
   </programme>
   <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
@@ -33053,6 +33465,13 @@ From Alfredo di Stefano in Madrid, Spain.</desc>
     <title lang="en">UEFA Women's Champions League Soccer</title>
     <live />
   </programme>
+  <programme start="20261110180000 +0000" stop="20261110183000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">The latest local stories, breaking national news, weather and live interviews with community leaders about local events.</desc>
+    <icon src="https://iptv-epg.org/images/3Oc_a_QNhgWimke9CFbAt7Kqb79iBejjpGahsy_5Nqjt36Mdf0NNycTcfN_uSBWdwmsxsXepyjCOWq634wxmlLBswOv1oapw2Sb5vG3oiho" />
+    <title lang="en">Live at Lunch</title>
+    <new />
+  </programme>
   <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
     <category lang="en">Series</category>
@@ -33874,6 +34293,32 @@ On a bus in Los Angeles, Calif., tensions rise over a woman's refusal to give up
     <previously-shown />
     <title lang="en">Customer Wars</title>
   </programme>
+  <programme start="20261110183000 +0000" stop="20261110190000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S40 E46
+Ridge grapples with Steffy's life-changing decision; Will confides in Dylan; Katie reaches a breaking point in her marriage.</desc>
+    <episode-num>S40 E46</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
   <programme start="20261110183000 +0000" stop="20261110184500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -34269,6 +34714,31 @@ In Estes Park, Colorado, two customers attempt to return their purchases after t
     <icon src="https://iptv-epg.org/images/c3ZPp2oiMftgmHi2triKcITCOP0U9A94rTcB2jFBpjC6gaA4BhgO1zoPuoFlib4wXU5p5_siOyQMWgHCCaurR7kry4lF8n9WKh3bcLQ255Y" />
     <previously-shown />
     <title lang="en">Customer Wars</title>
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E208
+When Bill's world is shattered, Chelsea tries to pick up the pieces; Martin tries a tactic to help Naomi with Smitty's case; Hayley's ready to run free till she meets a mysterious roadblock; Jacob gets totally thrown by a surprising phone call.</desc>
+    <episode-num>S02 E208</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
+    <new />
   </programme>
   <programme start="20261110190000 +0000" stop="20261110193000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -35373,6 +35843,16 @@ From Parc des Princes in Paris, Ile-de-France, France.</desc>
     <icon src="https://iptv-epg.org/images/LP39jvUPYAPq5Lbu4LFoEbkcljm8H9EsHTWSDUfb-78RZNm5CFHdrU2e85Vhal2MvxJc8xZ0IgavP3173XR-YN2dBhVk6n3c01W9N6CoyZY" />
     <title lang="en">UEFA Women's Champions League Soccer</title>
     <live />
+  </programme>
+  <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S18 E37
+Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.</desc>
+    <episode-num>S18 E37</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <title lang="en">Let's Make a Deal</title>
+    <new />
   </programme>
   <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="CWKTLA.us">
     <category lang="en">News</category>
@@ -36675,6 +37155,14 @@ In Allen, Texas, a parking lot dispute turns into a bizarre tirade of passive-ag
     <previously-shown />
     <title lang="en">Customer Wars</title>
   </programme>
+  <programme start="20261110210000 +0000" stop="20261110213000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Exploring the challenges and triumphs of aging, and celebrating the wisdom, strength and beauty that come with life's later stages.</desc>
+    <icon src="https://iptv-epg.org/images/H4pJk_qFOKa5ADeqWeUfp4kv2-OlFj7MH7IGDHNgnYMBQAphOno3KEvs5nhKPRv-DBF8kpGcCpbXOLnEQUN2w-I9kfeEPWWSv0LK-zfSosc" />
+    <title lang="en">Aging Untold</title>
+    <new />
+  </programme>
   <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Drama</category>
     <category lang="en">Soap</category>
@@ -37324,6 +37812,12 @@ In Warwick, New York, a fast-food customer assists with a flaming kitchen applia
     <previously-shown />
     <title lang="en">The Journey: Big Ten Football</title>
   </programme>
+  <programme start="20261110213000 +0000" stop="20261110220000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <desc lang="en">Local Mingle</desc>
+    <icon src="https://iptv-epg.org/images/yoY4QHl3ljgyYfYVAdvXVjNFaPVQNAK_RRuXiMDu4XlUgX5QsPMr-JwtKiKDkiJw13wq_5K6_OuFvsb8anqXstuDd2b7INXrOaDUDGi2QrQ" />
+    <title lang="en">Local Mingle</title>
+  </programme>
   <programme start="20261110213000 +0000" stop="20261110214500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
@@ -37777,6 +38271,13 @@ A family's fierce defense of a parking space turns contentious with Florida offi
     <icon src="https://iptv-epg.org/images/x0Rkxpad6e8ZR32UclCyaVNY_dewgIWvQYlGhJrM3k7bjvzaV6yCJ4iJXYGjz2zZL11jRO7WW2ls8pQJy68yofDYrIMivRS8Rd-DF8y1qD0" />
     <title lang="en">UEFA Women's Champions League Post-Match Show</title>
     <live />
+  </programme>
+  <programme start="20261110220000 +0000" stop="20261110223000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/xbP2ix2RX2NzjqNinfdatVb3CKDfuiBL0jI3EeWOXXSm0_oxZTSzaJQxYAOy-4K076BLyb7zyjgLTyUPlcYCUZA8wQwZX1uv6yVGc5wY0OI" />
+    <title lang="en">News First at Four</title>
+    <new />
   </programme>
   <programme start="20261110220000 +0000" stop="20261110223000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Entertainment</category>
@@ -38575,6 +39076,18 @@ A confrontation between motorists in Toronto turns into a rumble in the street; 
     <previously-shown />
     <title lang="en">Road Wars</title>
   </programme>
+  <programme start="20261110223000 +0000" stop="20261110230000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E42
+A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num>S39 E42</episode-num>
+    <icon src="https://iptv-epg.org/images/rMjZ3q3JiJwUFN2BvUphy7bFzjrWjTT393Fwpv3PMw3qI4uHmf3hd7fyM_fbUq4ZSE-_KCzqSkbMGPcIJ-QzJZXNqmbe72O0OVGWKpEyge4" />
+    <title lang="en">Inside Edition</title>
+    <new />
+  </programme>
   <programme start="20261110223000 +0000" stop="20261110230000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Entertainment</category>
     <category lang="en">Talk</category>
@@ -38997,6 +39510,14 @@ Enhanced replays of memorable fights.</desc>
     <icon src="https://iptv-epg.org/images/vEmFlCodiS6TY6tFZVX1nprNN-iFW8JA_QUnNk64AVKz1cK1W2GIaaMiT85OL68Zx8iJf_hSj8GX4pbKRF8YHuveCNAKxjuHUVrUXdqsXs4" />
     <previously-shown />
     <title lang="en">UFC Fight Flashback</title>
+  </programme>
+  <programme start="20261110230000 +0000" stop="20261110233000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">News</category>
+    <desc lang="en">News4 at 5p</desc>
+    <icon src="https://iptv-epg.org/images/DwRK0CMRpoJYPJw4y-HbKRNIDYwCwHb1vZvn-4d2iAFylIvODsVNi7MEHGE7NCpK3_pHOUc5b_GBZsWU5vHMIYpBTRBJLj8H4iwFiHQ0jlY" />
+    <title lang="en">News4 at 5p</title>
+    <new />
   </programme>
   <programme start="20261110230000 +0000" stop="20261110233000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Law</category>
@@ -39697,6 +40218,14 @@ The NJIT Highlanders visit the Rutgers Scarlet Knights for an NCAA Division I ga
     <title lang="en">Inside College Football</title>
     <live />
   </programme>
+  <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
   <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Law</category>
     <category lang="en">Reality</category>
@@ -40101,6 +40630,13 @@ The Western Michigan Broncos visit the Akron Zips for an NCAA FBS division game 
     <icon src="https://iptv-epg.org/images/xOOuyjeKtxNy8rSlsd0T7Sf2pysAdOHbxDV1BeB4F7khB1qE94Jt3XJszf3hgi6HJdftoSZkneGS5cve2W98lxdDpN9GCRhe9aIRDgsnYoU" />
     <title lang="en">College Football</title>
     <live />
+  </programme>
+  <programme start="20261111000000 +0000" stop="20261111003000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/9-WeQOy0D7Biqz8TX9N0-ccAF4VDanMx2C3cE7LQV1kKpfY9xFcpxdqjPA2M58PjZBLi26TW_xpdA3M7Nrnx5dH_mxzXv2uEidI0Snxbb6I" />
+    <title lang="en">News 4 at 6p</title>
+    <new />
   </programme>
   <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -40854,6 +41390,16 @@ In Woodland Hills, Calif., good Samaritans attempt to box in a driver involved i
     <previously-shown />
     <title lang="en">Road Wars</title>
   </programme>
+  <programme start="20261111003000 +0000" stop="20261111010000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S44 E42 — Live More Floridays
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S44 E42</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <title lang="en">Wheel of Fortune</title>
+    <new />
+  </programme>
   <programme start="20261111003000 +0000" stop="20261111010000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
@@ -41301,6 +41847,33 @@ A man in Queens, New York, attempts to close a street to traffic with a metal ba
     <icon src="https://iptv-epg.org/images/0y3B96Lp1nDwHElc7rhk0k9ByDW8bohMwqce56QzvhioeDbyS3oHIrcVTANFpWTkEhOwiuBY7DxJ07_0_jd4mZHBShNl-9sXX0Dlf6xHHeg" />
     <previously-shown />
     <title lang="en">Road Wars</title>
+  </programme>
+  <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Sean Murray</actor>
+      <actor>Wilmer Valderrama</actor>
+      <actor>Brian Dietzen</actor>
+      <actor>Diona Reasonover</actor>
+      <actor>Katrina Law</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>Gary Cole</actor>
+      <actor>David McCallum</actor>
+      <actor>Maria Bello</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>Jennifer Esposito</actor>
+      <actor>Michael Weatherly</actor>
+    </credits>
+    <desc lang="en">S24 E05 — Speechless
+When the team finds an 8-year-old girl hiding alone in her apartment and her Marine mother missing, they discover the shy witness is hiding a surprising skill that just might crack the case wide open.</desc>
+    <episode-num>S24 E05</episode-num>
+    <icon src="https://iptv-epg.org/images/KSTAi26bOit_WO6gR9XHkiLwpWj2LM55Au704owrz-Q6DL-oqNZ9WRqmh84uWIdlAlGJeMrx2tZclksj8ayWq9RM3HU2ICp_JMXSAhLUo4w" />
+    <title lang="en">NCIS</title>
+    <new />
   </programme>
   <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -42318,6 +42891,27 @@ A road rage fight erupts in a Michigan parking lot in front of one driver's litt
     <episode-num>S08 E09</episode-num>
     <icon src="https://iptv-epg.org/images/0y3B96Lp1nDwHElc7rhk0k9ByDW8bohMwqce56QzvhioeDbyS3oHIrcVTANFpWTkEhOwiuBY7DxJ07_0_jd4mZHBShNl-9sXX0Dlf6xHHeg" />
     <title lang="en">Road Wars</title>
+    <new />
+  </programme>
+  <programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>LL Cool J</actor>
+      <actor>Scott Caan</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Jacqueline Byers</actor>
+      <actor>Shane Harper</actor>
+      <actor>Devin Druid</actor>
+    </credits>
+    <desc lang="en">S01 E05 — True Love
+When a naval interrogator is found brutally murdered in her own home, the team is called to the scene; Nick struggles with the investigation into his old NYPD partner.</desc>
+    <episode-num>S01 E05</episode-num>
+    <icon src="https://iptv-epg.org/images/3jqKKG_6rIUGVJuZNBDPP_knkD0k3_FdcQiCWkToQS4MCr21YQCUF-sLmBAnynLEtSlkeoXu5orPDHSPHAbuSgGSc7eDVe0eirlkYnDRmwQ" />
+    <title lang="en">NCIS: New York</title>
     <new />
   </programme>
   <programme start="20261111020000 +0000" stop="20261111023000 +0000" channel="CBSWest_KCBS.us">
@@ -43454,6 +44048,26 @@ The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <episode-num>S43 E42</episode-num>
     <icon src="https://iptv-epg.org/images/Za91UqA5qKaC9ZUUPGOD2zxkkpNZeURz8wE8JFEKZ1I40iI7lL8Jf1l8Y6yv2_YzmVZFjx0SuudUB7XA_hgxYcvADm-qlTw87vQNHbC003U" />
     <title lang="en">Jeopardy!</title>
+    <new />
+  </programme>
+  <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Austin Stowell</actor>
+      <actor>Kyle Schmid</actor>
+      <actor>Mariel Molino</actor>
+      <actor>Tyla Abercrumbie</actor>
+      <actor>Diany Rodriguez</actor>
+    </credits>
+    <desc lang="en">S03 E05 — Baila Esta Cumbia
+In 1993, the team's investigation into the murder of a con woman hits close to home for Lala; in the present, Gibbs and Bishop team up for an intense interrogation.</desc>
+    <episode-num>S03 E05</episode-num>
+    <icon src="https://iptv-epg.org/images/FOYZI8Y3xaKQDXcGKieV5AfF--HToVITHgn1mqcbwx29oJeTgRxnf6BdHf16XiNyNmT0VeKx-cDnKpll0YNXB3re29fapOlmQ1Eaaw0poz0" />
+    <title lang="en">NCIS: Origins</title>
     <new />
   </programme>
   <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="CBSWest_KCBS.us">
@@ -44648,6 +45262,13 @@ The remaining seven couples perform dances inspired by iconic Grammy-nominated a
     <icon src="https://iptv-epg.org/images/jeF4YTzjtpYPSFfbWSHPkL82irpqYbzHZybqvgvSamjUQ2JbmXa8idNlnLcKoxGyt5Anui-2uHlgynu-IMEd_YmjBro5NRC0q1UbnGc_u8E" />
     <title lang="en">Gran Torino</title>
   </programme>
+  <programme start="20261111040000 +0000" stop="20261111043500 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/7y1cIwk21BvoRI1OcQRJk38SWd38h6hEE_y0N0SZ2O4eq9Pf9iRJUBMmiFOtXhINhskUe6wsGpIzyIEmdOfO539AAwBSInSltZR9fz7xT9c" />
+    <title lang="en">News 4 at 10</title>
+    <new />
+  </programme>
   <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -45750,6 +46371,16 @@ Actor Dustin Hoffman; actor Skyler Gisondo; professional basketball player Donov
     <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
     <new />
   </programme>
+  <programme start="20261111043500 +0000" stop="20261111050500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E155 — Aida Rodriguez; Zako Ryan; DC Benny; Guy Torry
+Aida Rodriguez; Zako Ryan; DC Benny; Guy Torry.</desc>
+    <episode-num>S04 E155</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+    <new />
+  </programme>
   <programme start="20261111043500 +0000" stop="20261111050000 +0000" channel="TelemundoWSCV.us">
     <category lang="en">News</category>
     <category lang="en">Public affairs</category>
@@ -46427,6 +47058,16 @@ A man in Queens, New York, attempts to close a street to traffic with a metal ba
     <previously-shown />
     <title lang="en">Road Wars</title>
   </programme>
+  <programme start="20261111050500 +0000" stop="20261111053500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E25 — Shawn Pelofsky; Chris Kattan; Dean Edwards; Kevin Sullivan
+Shawn Pelofsky; Chris Kattan; Dean Edwards; Kevin Sullivan.</desc>
+    <episode-num>S04 E25</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
   <programme start="20261111050500 +0000" stop="20261111071000 +0000" channel="SkyCinemaComedy.uk">
     <category lang="en">Film</category>
     <category lang="en">Black Comedy</category>
@@ -46886,6 +47527,17 @@ One car appears to back into another at a car wash; an accident on a Los Angeles
     <icon src="https://iptv-epg.org/images/0y3B96Lp1nDwHElc7rhk0k9ByDW8bohMwqce56QzvhioeDbyS3oHIrcVTANFpWTkEhOwiuBY7DxJ07_0_jd4mZHBShNl-9sXX0Dlf6xHHeg" />
     <previously-shown />
     <title lang="en">Road Wars</title>
+  </programme>
+  <programme start="20261111053500 +0000" stop="20261111060500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S10 E18 — Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams
+Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.</desc>
+    <episode-num>S10 E18</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <title lang="en">Funny You Should Ask</title>
+    <new />
   </programme>
   <programme start="20261111053500 +0000" stop="20261111064000 +0000" channel="Showcase.ca">
     <category lang="en">Drama</category>
@@ -47561,6 +48213,17 @@ Animated Aqua Teens find out there is a fire in the water.</desc>
     <previously-shown />
     <title lang="en">Aqua Teen Hunger Force</title>
   </programme>
+  <programme start="20261111060500 +0000" stop="20261111063500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S09 E25
+Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Caroline Rhea; Jimmie Walker.</desc>
+    <episode-num>S09 E25</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
   <programme start="20261111060500 +0000" stop="20261111075000 +0000" channel="SkyCinemaThriller.uk">
     <category lang="en">Drama</category>
     <category lang="en">Film</category>
@@ -48041,6 +48704,18 @@ Francine steals from the CIA and pretends to be a super villain to incite Stan t
     <icon src="https://iptv-epg.org/images/R8RDvIl4VpODIcIwiUGtKsyrpjXpR79k-YxhrnS1ccYbjmZDwX48BM8XjEOzsCGTHaUC2xCXT456yQIW2h4XNh2hb2c4NhNFNYZFMI5O6Nw" />
     <previously-shown />
     <title lang="en">American Dad!</title>
+  </programme>
+  <programme start="20261111063500 +0000" stop="20261111070500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E42
+A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num>S39 E42</episode-num>
+    <icon src="https://iptv-epg.org/images/rMjZ3q3JiJwUFN2BvUphy7bFzjrWjTT393Fwpv3PMw3qI4uHmf3hd7fyM_fbUq4ZSE-_KCzqSkbMGPcIJ-QzJZXNqmbe72O0OVGWKpEyge4" />
+    <title lang="en">Inside Edition</title>
+    <new />
   </programme>
   <programme start="20261111063500 +0000" stop="20261111084400 +0000" channel="CinemaxClassicsPacific.us">
     <category lang="en">Comedy drama</category>
@@ -48803,6 +49478,27 @@ Inside a North Carolina restaurant, staff can apparently only process online ord
     <previously-shown />
     <title lang="en">Customer Wars</title>
   </programme>
+  <programme start="20261111070500 +0000" stop="20261111073500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Jon Cryer</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Angus Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+    </credits>
+    <date>2005</date>
+    <desc lang="en">S02 E23 — Squab, Squab, Squab, Squab, Squab
+Alan is reluctant to leave Jake with Evelyn for a sleepover visit until he finds himself partying with Charlie and a busload of beautiful female volleyball players.</desc>
+    <episode-num>S02 E23</episode-num>
+    <icon src="https://iptv-epg.org/images/u6fbeSww6F8tOD_xDyD7c_ZZC0MEFLoKTt1U2bUAtDdWHEe9xCz-v-ehxOEJnDnMj45n8GNyRiSrohHMhQdgrTnkFQQJbGBI7-I6qINpIcY" />
+    <previously-shown />
+    <title lang="en">Two and a Half Men</title>
+  </programme>
   <programme start="20261111070500 +0000" stop="20261111075900 +0000" channel="HBO.us">
     <category lang="en">Drama</category>
     <category lang="en">Thriller</category>
@@ -49206,6 +49902,16 @@ Actress Jodie Foster; actor Andrew Scott; Jesse Welles performs; Sy Smith sits i
     <episode-num>S25 E33</episode-num>
     <icon src="https://iptv-epg.org/images/HmPgozQ125Dwl8aqfq9ltvScUEPjnS8VPkIpqlt474FypOmZLEmlQXVAPNkBm_Ypn6Zr36OTPc9wJKljK2JAysHyzhLzRCBnmj2mU7m-KzU" />
     <title lang="en">Jimmy Kimmel Live!</title>
+    <new />
+  </programme>
+  <programme start="20261111073500 +0000" stop="20261111080500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Bus./financial</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S12 E49 — Millennial &amp; Gen Z Money; Common Cents Investing
+An entertaining daily business news show giving everyday Americans an edge in the stock market straight from the trading floor.</desc>
+    <episode-num>S12 E49</episode-num>
+    <icon src="https://iptv-epg.org/images/L2y2BEfyASZ8TotqgMySttAzV3gu7fqeDUlapmsvoGSzrD-_zKERhim_8-Xo_mCyyVq3t2lb_ZaPqej3_CZnvubMabGuaAPoMlqpHZ_jhE0" />
+    <title lang="en">Business First With Angela Miles</title>
     <new />
   </programme>
   <programme start="20261111073500 +0000" stop="20261111080500 +0000" channel="CBSWest_KCBS.us">
@@ -50015,6 +50721,14 @@ At an amusement park in Florida, police officers confront a couple causing a dis
     <icon src="https://iptv-epg.org/images/c3ZPp2oiMftgmHi2triKcITCOP0U9A94rTcB2jFBpjC6gaA4BhgO1zoPuoFlib4wXU5p5_siOyQMWgHCCaurR7kry4lF8n9WKh3bcLQ255Y" />
     <previously-shown />
     <title lang="en">Customer Wars</title>
+  </programme>
+  <programme start="20261111080500 +0000" stop="20261111103000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
   </programme>
   <programme start="20261111080500 +0000" stop="20261111083500 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Comedy</category>
@@ -52749,6 +53463,14 @@ A professor bets he can turn the boys into gentlemen.</desc>
     <previously-shown />
     <title lang="en">The B1G Show</title>
   </programme>
+  <programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
   <programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Action</category>
     <category lang="en">Anime</category>
@@ -53149,6 +53871,13 @@ Cuando Cat Noir casi entiende que Marinette es Ladybug, Marinette entra en páni
     <icon src="https://iptv-epg.org/images/1bkISbZkNDT8FCysTEHDiZAgDfL6CJVOWErCSw2tj9-d6lhvzn5KsPxnle9--XyV-GkBziIOG0RPJb8N0Se6DHBI0PF4UhKFKWJWpS0Ang8" />
     <title lang="en">Boomer and Gio</title>
     <live />
+  </programme>
+  <programme start="20261111110000 +0000" stop="20261111113000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/63PUA4GAUx-DCFLBvTvVbb5rvfpQ_JEhFAgpfpbBzZcSBSQgjk0kSMBWh0zlSTTO7tdOj6JbsYOqTCLwtmbGr6HrEBOrT8yS3MKtrFd5f0w" />
+    <title lang="en">Today in Alabama 5:00</title>
+    <new />
   </programme>
   <programme start="20261111110000 +0000" stop="20261111111200 +0000" channel="CartoonNetwork.us">
     <category lang="en">Adventure</category>
@@ -54007,6 +54736,13 @@ Trapped in the First Street House, Rowan and Sip must confront its many mysterie
     <previously-shown />
     <title lang="en">The B1G Show</title>
   </programme>
+  <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/_ZGP8n-QYcy-iZTAJTf0qxf5BJX7pqHUPnPwD_eMYSrVlKiqhwO4xyO-__DkNha91oRGsl4AHsY-GbR4y48-JtNhDlRiksis1TLGc1AP-yI" />
+    <title lang="en">Today In Alabama 5:30</title>
+    <new />
+  </programme>
   <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="CWKTLA.us">
     <category lang="en">Law</category>
     <category lang="en">Reality</category>
@@ -54466,6 +55202,13 @@ Snap-to-snap 60-minute presentation of a Big Ten football game.</desc>
     <icon src="https://iptv-epg.org/images/rqHrP5i7mK7i4eO793FePvwVQsRBEcHDIcMGHrIBAEEaX5dMIUVfQNc-eWjitPwbdHo0TXFXtddQix-QLKBCzKaXwGbXnlsQfrON5-woY9o" />
     <previously-shown />
     <title lang="en">B1G Football in 60</title>
+  </programme>
+  <programme start="20261111120000 +0000" stop="20261111130000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/fLQHIGgePETDQW94I_qT4EYY1u0WFBcaSeGcry_8EygOFXFZsmOpPOl8nWmHlueF23G1Yc8YcEep1RE93nucWiZmH7KI3vUmFOc7-zdl4PY" />
+    <title lang="en">News 4 This Morning at 6a</title>
+    <new />
   </programme>
   <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -55789,6 +56532,15 @@ During "Bring Your Brother to Work Day" in Thousand Oaks, Calif., Justin sinks h
     <icon src="https://iptv-epg.org/images/r3XoRBRgLcJnHp43lfw_ZojhPJyggWiVuTUWtVARQ96c3N3zyXApnJteKabap5DDPQXTJw7jhQm-4UaCu7xSsRMxEdAPkrwrMUYId_FZ3gA" />
     <previously-shown />
     <title lang="en">The B1G Show</title>
+  </programme>
+  <programme start="20261111130000 +0000" stop="20261111150000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">TV host Jack Coyne; Keri Glassman, founder of Nutritious Life.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
   </programme>
   <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -58256,6 +59008,16 @@ The buyers seek industrial merchandise and antiques; a wine rack intrigues Jarro
     <icon src="https://iptv-epg.org/images/OBNK38saK6J16z8_SWND9EU7ctXaZs_OirlmTh9PSUjkeKSTtbCGkHtAHVHr_A-_hlCMsw_t8BRA3fpgvghNQIo1ogSiuvWQVPSxOxHKKPo" />
     <title lang="en">Inside College Football</title>
   </programme>
+  <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E46 — Less Is More Week
+Cynthia Nixon; Monica Mangin shares deals to get a jump on Black Friday; Sam Nivola (Hulu's "Phony"); Dayna Isom Johnson.</desc>
+    <episode-num>S05 E46</episode-num>
+    <icon src="https://iptv-epg.org/images/hwTToNXNMPcUnsp30PBvh5d4IHl9-Zqfr-98gaQBEhNrZFso20D0eyEQ8Y0w5L94TT1eafydpWWY_D5vEzeqxCqDGF12RwUvAycxKhCA7cg" />
+    <title lang="en">Live with Kelly and Mark</title>
+    <new />
+  </programme>
   <programme start="20261111150000 +0000" stop="20261111170000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
     <category lang="en">Talk</category>
@@ -59476,6 +60238,16 @@ Snap-to-snap 60-minute presentation of a Big Ten football game.</desc>
     <icon src="https://iptv-epg.org/images/OBNK38saK6J16z8_SWND9EU7ctXaZs_OirlmTh9PSUjkeKSTtbCGkHtAHVHr_A-_hlCMsw_t8BRA3fpgvghNQIo1ogSiuvWQVPSxOxHKKPo" />
     <title lang="en">Inside College Football</title>
   </programme>
+  <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S55 E38
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S55 E38</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <title lang="en">The Price Is Right</title>
+    <new />
+  </programme>
   <programme start="20261111160000 +0000" stop="20261111163000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Adventure</category>
     <category lang="en">Animated</category>
@@ -60694,6 +61466,30 @@ It's the annual Shootout powerboat race weekend on the Lake of the Ozarks, and t
     <icon src="https://iptv-epg.org/images/Sse3kv61tyjuHWullkdFUoaiINay6IFsf8y9xriiaJdKS6orxbEfZU2IAy7tLJdJeEVh6fbuxa3Q3NVC6-O6z2INSptyImBMQ8xbjn2NHzs" />
     <title lang="en">Cover 3</title>
     <live />
+  </programme>
+  <programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S54 E25
+Nikki and Diane back force Daniel to make a tough decision; Mariah and Tessa get back on track; Sharon worries about Nick's sobriety.</desc>
+    <episode-num>S54 E25</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
   </programme>
   <programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
@@ -62011,6 +62807,13 @@ It's another wild summer weekend on the lake with all three departments getting 
     <title lang="en">With the First Pick</title>
     <live />
   </programme>
+  <programme start="20261111180000 +0000" stop="20261111183000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">The latest local stories, breaking national news, weather and live interviews with community leaders about local events.</desc>
+    <icon src="https://iptv-epg.org/images/3Oc_a_QNhgWimke9CFbAt7Kqb79iBejjpGahsy_5Nqjt36Mdf0NNycTcfN_uSBWdwmsxsXepyjCOWq634wxmlLBswOv1oapw2Sb5vG3oiho" />
+    <title lang="en">Live at Lunch</title>
+    <new />
+  </programme>
   <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
     <category lang="en">Series</category>
@@ -62835,6 +63638,32 @@ Basilone and the 7th Marines arrive on Guadalcanal to reinforce the 1st Marine D
     <title lang="en">B1G Plus Encore</title>
     <new />
   </programme>
+  <programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S40 E47
+Ridge learns the truth; Taylor makes a pivotal decision about her future with Deacon.</desc>
+    <episode-num>S40 E47</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
   <programme start="20261111183000 +0000" stop="20261111184500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -63275,6 +64104,27 @@ Get an in-depth look at the lead-up and bout for McGregor vs. Cowboy.</desc>
     <icon src="https://iptv-epg.org/images/pD4PC0I_kRsvzFlTDoVvFX7eJntzuFVeGLED6R2ToXEoV0d6CeV57g0BEbKHlGL77AijoxcHFVikJ7JLascdwQ5hmz8m6FDDO9bzcwWGazI" />
     <previously-shown />
     <title lang="en">UFC - The Walk</title>
+  </programme>
+  <programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">The Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty, live, love, work and play in a leafy Maryland suburb just outside of Washington D.C.</desc>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
   </programme>
   <programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -64453,6 +65303,16 @@ From Alumni Hall in Annapolis, Md.</desc>
     <icon src="https://iptv-epg.org/images/mFPf2Ftwr_1kn3sy6XjsyzDef9SvhD0RPzH1Ae-F9Kndn3ZIxJBLbcoutfqO2cIRg3NdKo5nRzlR0oKjLzzPHRjSW5ig8Er2EgJYQqFY0VU" />
     <title lang="en">College Basketball</title>
     <live />
+  </programme>
+  <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S18 E38
+Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.</desc>
+    <episode-num>S18 E38</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <title lang="en">Let's Make a Deal</title>
+    <new />
   </programme>
   <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="CWKTLA.us">
     <category lang="en">News</category>
@@ -65770,6 +66630,14 @@ Snap-to-snap 60-minute presentation of a Big Ten football game.</desc>
     <previously-shown />
     <title lang="en">B1G Football in 60</title>
   </programme>
+  <programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Exploring the challenges and triumphs of aging, and celebrating the wisdom, strength and beauty that come with life's later stages.</desc>
+    <icon src="https://iptv-epg.org/images/H4pJk_qFOKa5ADeqWeUfp4kv2-OlFj7MH7IGDHNgnYMBQAphOno3KEvs5nhKPRv-DBF8kpGcCpbXOLnEQUN2w-I9kfeEPWWSv0LK-zfSosc" />
+    <title lang="en">Aging Untold</title>
+    <new />
+  </programme>
   <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Drama</category>
     <category lang="en">Soap</category>
@@ -66489,6 +67357,12 @@ Guy joins the Talamasca, leaving his old life as a lawyer behind; Helen trains h
     <icon src="https://iptv-epg.org/images/nsZUWRWiOXYiVIw11VC3QraguWlxkfG8ImML2SEvwLCKDxm9gA2CTlN6V0Dfuay0KfKNAbsmr6ucdpOIbuRAdw-YdCYb6h_q8qHjJ3AZV7s" />
     <title lang="en">Up in the Air</title>
   </programme>
+  <programme start="20261111213000 +0000" stop="20261111220000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <desc lang="en">Local Mingle</desc>
+    <icon src="https://iptv-epg.org/images/yoY4QHl3ljgyYfYVAdvXVjNFaPVQNAK_RRuXiMDu4XlUgX5QsPMr-JwtKiKDkiJw13wq_5K6_OuFvsb8anqXstuDd2b7INXrOaDUDGi2QrQ" />
+    <title lang="en">Local Mingle</title>
+  </programme>
   <programme start="20261111213000 +0000" stop="20261111214500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
@@ -66849,6 +67723,13 @@ Alaska troopers team pursue a wanted man through a forest; protecting the neighb
 In-depth highlights and analysis of the latest college basketball results and news. Plus profiles of coaches and players from the nation's elite teams and previews of the top upcoming games.</desc>
     <icon src="https://iptv-epg.org/images/EM51MbX_P1VnJczLGsXTq1YDloRrl8p34BAhi9WTctkq28aoci3RwSYghLtbFBJkRzAncG6GfObcveUNkfXzO1JsuwZ-XlDF9_BUa8N_1jM" />
     <title lang="en">Inside College Basketball</title>
+    <new />
+  </programme>
+  <programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/xbP2ix2RX2NzjqNinfdatVb3CKDfuiBL0jI3EeWOXXSm0_oxZTSzaJQxYAOy-4K076BLyb7zyjgLTyUPlcYCUZA8wQwZX1uv6yVGc5wY0OI" />
+    <title lang="en">News First at Four</title>
     <new />
   </programme>
   <programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="CBSWest_KCBS.us">
@@ -67660,6 +68541,18 @@ From Alumni Hall in Annapolis, Md.</desc>
     <title lang="en">College Basketball</title>
     <live />
   </programme>
+  <programme start="20261111223000 +0000" stop="20261111230000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E43
+A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num>S39 E43</episode-num>
+    <icon src="https://iptv-epg.org/images/rMjZ3q3JiJwUFN2BvUphy7bFzjrWjTT393Fwpv3PMw3qI4uHmf3hd7fyM_fbUq4ZSE-_KCzqSkbMGPcIJ-QzJZXNqmbe72O0OVGWKpEyge4" />
+    <title lang="en">Inside Edition</title>
+    <new />
+  </programme>
   <programme start="20261111223000 +0000" stop="20261111230000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Entertainment</category>
     <category lang="en">Talk</category>
@@ -68015,6 +68908,14 @@ First Semifinal.</desc>
     <icon src="https://iptv-epg.org/images/ocpel_wXG13uQBZZy8z1suAUcvU0CPdMilirlCQWjpsxafv6vMagx3PWMw78SE7eYimpbqWUh6SdRMxHR5_8V9Bqqk4CuKRV05UW8eXnhdg" />
     <title lang="en">Men's College Soccer</title>
     <live />
+  </programme>
+  <programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">News</category>
+    <desc lang="en">News4 at 5p</desc>
+    <icon src="https://iptv-epg.org/images/DwRK0CMRpoJYPJw4y-HbKRNIDYwCwHb1vZvn-4d2iAFylIvODsVNi7MEHGE7NCpK3_pHOUc5b_GBZsWU5vHMIYpBTRBJLj8H4iwFiHQ0jlY" />
+    <title lang="en">News4 at 5p</title>
+    <new />
   </programme>
   <programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Law</category>
@@ -68698,6 +69599,14 @@ Easy Company spends Christmas in the trenches while trying to hold the line in t
     <previously-shown />
     <title lang="en">Band of Brothers</title>
   </programme>
+  <programme start="20261111233000 +0000" stop="20261112000000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <icon src="https://iptv-epg.org/images/5ThNFQE_c9gorifNC136JFxgJSJXKVSjhDzjfjrMUR9fMo_S9yduz5gExzFRt_IYK8pnALKfRd5er16TEISp8iextGRBC2mH3c1bvVQJqiM" />
+    <title lang="en">CBS Evening News</title>
+    <new />
+  </programme>
   <programme start="20261111233000 +0000" stop="20261112000000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Law</category>
     <category lang="en">Reality</category>
@@ -69209,6 +70118,13 @@ It's below freezing, but crime is heating up; in Fairbanks, troopers respond to 
     <icon src="https://iptv-epg.org/images/HR5hryLwBbFQ_IVYMJKSvWkNADbIFx7yQgOQyFXTg4telLTI2_qlzsxjvg5_XNPerb2RY5Kw1nrBQbJVR2ajOk4Uo5wXm2wcj9IFXVZs-Fg" />
     <previously-shown />
     <title lang="en">Alaska State Troopers</title>
+  </programme>
+  <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/9-WeQOy0D7Biqz8TX9N0-ccAF4VDanMx2C3cE7LQV1kKpfY9xFcpxdqjPA2M58PjZBLi26TW_xpdA3M7Nrnx5dH_mxzXv2uEidI0Snxbb6I" />
+    <title lang="en">News 4 at 6p</title>
+    <new />
   </programme>
   <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -70014,6 +70930,16 @@ Bertha returns to a frosty household, Peggy's career aspirations clash with the 
     <title lang="en">College Football</title>
     <live />
   </programme>
+  <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S44 E43 — Live More Floridays
+In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num>S44 E43</episode-num>
+    <icon src="https://iptv-epg.org/images/7umwDZPpUZs2a7sP2Mo0CkoFyhr7My7kDSNxG-PZShz7WZiGZ_OS4GR3dapapnl9irs5XGkb4gqzNloGNvinfrAL6K9Undn_6fME0_F5TYo" />
+    <title lang="en">Wheel of Fortune</title>
+    <new />
+  </programme>
   <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
@@ -70360,6 +71286,18 @@ In western Alaska, a village goes into lockdown after three armed and intoxicate
     <icon src="https://iptv-epg.org/images/ZV7IbJeWuVvZB-ztuZJWLvs4xmB_1h7hjghExlzKDCkA_hg2ZiYkGnnShjTLDjn3_6-87aOcL70nQzUreGmeGYqow9I3G_6-1tX7NBoJmno" />
     <previously-shown />
     <title lang="en">On the Pitch</title>
+  </programme>
+  <programme start="20261112010000 +0000" stop="20261112023000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Competition reality</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S51 E08 — Load the Ark, Two by Two
+A castaway faces major backlash for loose lips and creating a messy post-merge tribal council; tree mail brings the news to pair up two by two knowing their partner could seal their fate.</desc>
+    <episode-num>S51 E08</episode-num>
+    <icon src="https://iptv-epg.org/images/8IDqpelnega3zRbEAMOgAv3MM29PArA0muJn2db0WwERjacpTKSLGs5QFQFRbVK6pFwZCu8cGRFXass6-2xOEUfyxR5JieElX0izJlI_3qo" />
+    <title lang="en">Survivor</title>
+    <new />
   </programme>
   <programme start="20261112010000 +0000" stop="20261112020000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -72152,6 +73090,19 @@ Cuando Zuri pierde interés en ser niñera de la mascota conejo de su clase, Jes
     <title lang="en">All ACC</title>
     <new />
   </programme>
+  <programme start="20261112023000 +0000" stop="20261112040000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Competition reality</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E08 — Million Dollar Moves
+In Vientiane, Laos, a shocking twist shakes up the race and teams hatch a plan with devastating consequences.</desc>
+    <episode-num>S39 E08</episode-num>
+    <icon src="https://iptv-epg.org/images/UpbJJQRaAKGlSWI-tTdTvSU_dCmpBijTyAPGAkMNbPY5mpWpsPADQTZI6ElLlBSRFEksckmYBaFzp2p7uP1KkGbMJXTZeTYPdkv8FGSWfOM" />
+    <title lang="en">The Amazing Race</title>
+    <new />
+  </programme>
   <programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
     <category lang="en">Series</category>
@@ -73792,6 +74743,13 @@ When an overflowing ER sparks chaos within the hospital, J.D. is surprised to le
     <title lang="en">Inside College Football</title>
     <live />
   </programme>
+  <programme start="20261112040000 +0000" stop="20261112043500 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/7y1cIwk21BvoRI1OcQRJk38SWd38h6hEE_y0N0SZ2O4eq9Pf9iRJUBMmiFOtXhINhskUe6wsGpIzyIEmdOfO539AAwBSInSltZR9fz7xT9c" />
+    <title lang="en">News 4 at 10</title>
+    <new />
+  </programme>
   <programme start="20261112040000 +0000" stop="20261112053000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -74752,6 +75710,16 @@ Actress Jessica Chastain; actor Taylor Kinney; Brothers Osborne perform.</desc>
     <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
     <new />
   </programme>
+  <programme start="20261112043500 +0000" stop="20261112050500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E156 — Erica Spera; Ray Harrington; Anyi Malik; T.J. Miller
+Erica Spera; Ray Harrington; Anyi Malik; T.J. Miller.</desc>
+    <episode-num>S04 E156</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+    <new />
+  </programme>
   <programme start="20261112043500 +0000" stop="20261112061000 +0000" channel="Showtime2.us">
     <category lang="en">Comedy</category>
     <category lang="en">Gay/lesbian</category>
@@ -75533,6 +76501,16 @@ In western Alaska, a village goes into lockdown after three armed and intoxicate
     <previously-shown />
     <title lang="en">Alaska State Troopers</title>
   </programme>
+  <programme start="20261112050500 +0000" stop="20261112053500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S04 E26 — Subhah Agarwal; Jamie Kaler; Drew Lynch; Dean Edwards
+Subhah Agarwal; Jamie Kaler; Drew Lynch; Dean Edwards.</desc>
+    <episode-num>S04 E26</episode-num>
+    <icon src="https://iptv-epg.org/images/9SdjDwE8ocw-ez3x3Q31EvRYaowuJgK0xtYGu2cRWKiPIHeNliKqJnjidy5wjzTLnggWgO-bSlDTtuKvXYfhyFQjI9UuQD9XaVpLTEgqRXg" />
+    <previously-shown />
+    <title lang="en">Comics Unleashed With Byron Allen</title>
+  </programme>
   <programme start="20261112050500 +0000" stop="20261112060500 +0000" channel="ESPN.au">
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
@@ -75998,6 +76976,17 @@ Take a look back to the 2013 final as Arjen Robben scored a dramatic late winner
     <desc lang="en">Alya llega a Albora para enterrar a su esposo y se enfrenta, por primera vez, a una poderosa familia impulsada por la venganza. Proteger a su hijo Deniz y recuperar su libertad no será fácil.</desc>
     <icon src="https://iptv-epg.org/images/ZEffM-0vBqyHTqIDWb6ThSxDEG8zfGr1qZmIWU7Y4doLVYSnfXprDWORfBGAGcvzwX30G1x367K7Pb9cSd_8rFG7jI4oHCk2m-k4Zoud9X4" />
     <title lang="en">Lejos de ti</title>
+  </programme>
+  <programme start="20261112053500 +0000" stop="20261112060500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S10 E19 — Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams
+Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.</desc>
+    <episode-num>S10 E19</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <title lang="en">Funny You Should Ask</title>
+    <new />
   </programme>
   <programme start="20261112053500 +0000" stop="20261112071000 +0000" channel="SkyCinemaFamily.uk">
     <category lang="en">Children's</category>
@@ -76898,6 +77887,17 @@ Meatwad is corrupted by Frylock's creation.</desc>
     <previously-shown />
     <title lang="en">Aqua Teen Hunger Force</title>
   </programme>
+  <programme start="20261112060500 +0000" stop="20261112063500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Comedy</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S09 E26
+Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Caroline Rhea; Jimmie Walker.</desc>
+    <episode-num>S09 E26</episode-num>
+    <icon src="https://iptv-epg.org/images/H9tcBiVzuP9UDuihF4N1sD1pNX8yLWYAJXywir8I54gtPzvtdTM5TgUhg-WrEsxkQ6Q1jWwiSofQhNvRGaSGy8n2wAjCZ_zA_tF0vnljwRw" />
+    <previously-shown />
+    <title lang="en">Funny You Should Ask</title>
+  </programme>
   <programme start="20261112060500 +0000" stop="20261112063000 +0000" channel="ESPN.au">
     <category lang="en">Sports</category>
     <category lang="en">Series</category>
@@ -77358,6 +78358,18 @@ The family competes on the reality show, "The Bitchin' Race," but after Stan and
     <icon src="https://iptv-epg.org/images/R8RDvIl4VpODIcIwiUGtKsyrpjXpR79k-YxhrnS1ccYbjmZDwX48BM8XjEOzsCGTHaUC2xCXT456yQIW2h4XNh2hb2c4NhNFNYZFMI5O6Nw" />
     <previously-shown />
     <title lang="en">American Dad!</title>
+  </programme>
+  <programme start="20261112063500 +0000" stop="20261112070500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E43
+A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num>S39 E43</episode-num>
+    <icon src="https://iptv-epg.org/images/rMjZ3q3JiJwUFN2BvUphy7bFzjrWjTT393Fwpv3PMw3qI4uHmf3hd7fyM_fbUq4ZSE-_KCzqSkbMGPcIJ-QzJZXNqmbe72O0OVGWKpEyge4" />
+    <title lang="en">Inside Edition</title>
+    <new />
   </programme>
   <programme start="20261112063500 +0000" stop="20261112083500 +0000" channel="SkyCinemaAction.uk">
     <category lang="en">Drama</category>
@@ -78170,6 +79182,27 @@ An air unit in Tulsa helps to locate a suspect hiding in a creek.</desc>
     <previously-shown />
     <title lang="en">Southern Law</title>
   </programme>
+  <programme start="20261112070500 +0000" stop="20261112073500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Sitcom</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Jon Cryer</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Angus Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Melanie Lynskey</actor>
+    </credits>
+    <date>2005</date>
+    <desc lang="en">S02 E24 — Does This Smell Funny to You?
+Charlie unknowingly sleeps with an elderly man's (Orson Bean) hot trophy wife.</desc>
+    <episode-num>S02 E24</episode-num>
+    <icon src="https://iptv-epg.org/images/u6fbeSww6F8tOD_xDyD7c_ZZC0MEFLoKTt1U2bUAtDdWHEe9xCz-v-ehxOEJnDnMj45n8GNyRiSrohHMhQdgrTnkFQQJbGBI7-I6qINpIcY" />
+    <previously-shown />
+    <title lang="en">Two and a Half Men</title>
+  </programme>
   <programme start="20261112070700 +0000" stop="20261112074200 +0000" channel="NBCKXAS.us">
     <category lang="en">News</category>
     <category lang="en">Series</category>
@@ -78604,6 +79637,16 @@ Actor Arnold Schwarzenegger; actor Joseph Zada; Sy Smith sits in with The Cleton
     <episode-num>S25 E34</episode-num>
     <icon src="https://iptv-epg.org/images/HmPgozQ125Dwl8aqfq9ltvScUEPjnS8VPkIpqlt474FypOmZLEmlQXVAPNkBm_Ypn6Zr36OTPc9wJKljK2JAysHyzhLzRCBnmj2mU7m-KzU" />
     <title lang="en">Jimmy Kimmel Live!</title>
+    <new />
+  </programme>
+  <programme start="20261112073500 +0000" stop="20261112080500 +0000" channel="CBSWTVY.us">
+    <category lang="en">Bus./financial</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S12 E50 — Marriage &amp; Money Tips for Military Couples; On the Job Tips for Our Veterans
+An entertaining daily business news show giving everyday Americans an edge in the stock market straight from the trading floor.</desc>
+    <episode-num>S12 E50</episode-num>
+    <icon src="https://iptv-epg.org/images/L2y2BEfyASZ8TotqgMySttAzV3gu7fqeDUlapmsvoGSzrD-_zKERhim_8-Xo_mCyyVq3t2lb_ZaPqej3_CZnvubMabGuaAPoMlqpHZ_jhE0" />
+    <title lang="en">Business First With Angela Miles</title>
     <new />
   </programme>
   <programme start="20261112073500 +0000" stop="20261112080500 +0000" channel="CBSWest_KCBS.us">
@@ -79311,6 +80354,14 @@ The troopers start their shift in the dangerous region of the Mat-Su Valley.</de
     <icon src="https://iptv-epg.org/images/HR5hryLwBbFQ_IVYMJKSvWkNADbIFx7yQgOQyFXTg4telLTI2_qlzsxjvg5_XNPerb2RY5Kw1nrBQbJVR2ajOk4Uo5wXm2wcj9IFXVZs-Fg" />
     <previously-shown />
     <title lang="en">Alaska State Troopers</title>
+  </programme>
+  <programme start="20261112080500 +0000" stop="20261112103000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <icon src="https://iptv-epg.org/images/P1vuDo4UpYXRGHPxdn_FZlKDffkc-evvvTopC-EIAzx9V7w9KDdw1gYrskQcm1VEw2yusgppTCNNdduME7k-GIwnw-PYwONXagkgBAd6ICU" />
+    <title lang="en">CBS News Roundup</title>
+    <new />
   </programme>
   <programme start="20261112080500 +0000" stop="20261112083500 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Comedy</category>
@@ -81821,6 +82872,14 @@ Jasper and Guy come head to head at the London Mother House; Helen's motives are
     <icon src="https://iptv-epg.org/images/OBNK38saK6J16z8_SWND9EU7ctXaZs_OirlmTh9PSUjkeKSTtbCGkHtAHVHr_A-_hlCMsw_t8BRA3fpgvghNQIo1ogSiuvWQVPSxOxHKKPo" />
     <title lang="en">Inside College Football</title>
   </programme>
+  <programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <date>2024</date>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <icon src="https://iptv-epg.org/images/VSh0WwnnRguV7o4QzMwrl6JiXWB687KyYOMMeA9U2OCocpdNK-xEfWKLmgjiY_tmjplfMpp_El3bwQ13tKDsB3-JoBLDk8dHhOlErUPm7F8" />
+    <title lang="en">CBS News Mornings</title>
+    <new />
+  </programme>
   <programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Action</category>
     <category lang="en">Anime</category>
@@ -82289,6 +83348,13 @@ Bob Roth envía una llamada a los artistas jóvenes para que le envíen videos m
     <icon src="https://iptv-epg.org/images/1bkISbZkNDT8FCysTEHDiZAgDfL6CJVOWErCSw2tj9-d6lhvzn5KsPxnle9--XyV-GkBziIOG0RPJb8N0Se6DHBI0PF4UhKFKWJWpS0Ang8" />
     <title lang="en">Boomer and Gio</title>
     <live />
+  </programme>
+  <programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/63PUA4GAUx-DCFLBvTvVbb5rvfpQ_JEhFAgpfpbBzZcSBSQgjk0kSMBWh0zlSTTO7tdOj6JbsYOqTCLwtmbGr6HrEBOrT8yS3MKtrFd5f0w" />
+    <title lang="en">Today in Alabama 5:00</title>
+    <new />
   </programme>
   <programme start="20261112110000 +0000" stop="20261112111200 +0000" channel="CartoonNetwork.us">
     <category lang="en">Adventure</category>
@@ -83056,6 +84122,13 @@ Snap-to-snap 60-minute presentation of a Big Ten football game.</desc>
     <previously-shown />
     <title lang="en">B1G Football in 60</title>
   </programme>
+  <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/_ZGP8n-QYcy-iZTAJTf0qxf5BJX7pqHUPnPwD_eMYSrVlKiqhwO4xyO-__DkNha91oRGsl4AHsY-GbR4y48-JtNhDlRiksis1TLGc1AP-yI" />
+    <title lang="en">Today In Alabama 5:30</title>
+    <new />
+  </programme>
   <programme start="20261112113000 +0000" stop="20261112120000 +0000" channel="CWKTLA.us">
     <category lang="en">Law</category>
     <category lang="en">Reality</category>
@@ -83623,6 +84696,13 @@ Ricky and Bubba face off against Kenny and other locals in the eastern Texas cit
     <icon src="https://iptv-epg.org/images/7_16VKexwH2EVXSy73e7rjYpP0MArV0MtIX43yKh3dDhz0p9UKXsGAqStwuTAaOfkTH3Hbr6Ae3q51PuCk-fChMJQihYt6-aIIUZpNr7Fn8" />
     <previously-shown />
     <title lang="en">Storage Wars Texas</title>
+  </programme>
+  <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/fLQHIGgePETDQW94I_qT4EYY1u0WFBcaSeGcry_8EygOFXFZsmOpPOl8nWmHlueF23G1Yc8YcEep1RE93nucWiZmH7KI3vUmFOc7-zdl4PY" />
+    <title lang="en">News 4 This Morning at 6a</title>
+    <new />
   </programme>
   <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -84968,6 +86048,15 @@ Snap-to-snap 60-minute presentation of a Big Ten football game.</desc>
     <icon src="https://iptv-epg.org/images/rqHrP5i7mK7i4eO793FePvwVQsRBEcHDIcMGHrIBAEEaX5dMIUVfQNc-eWjitPwbdHo0TXFXtddQix-QLKBCzKaXwGbXnlsQfrON5-woY9o" />
     <previously-shown />
     <title lang="en">B1G Football in 60</title>
+  </programme>
+  <programme start="20261112130000 +0000" stop="20261112150000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Ed Bastian, Delta CEO; actor Tramell Tillman; immunology researcher Dr. David C. Fajgenbaum; Amazon Books editorial director Sarah Gelman.</desc>
+    <icon src="https://iptv-epg.org/images/0BdzKEfu36VwBUVVpEthYcdIIOpyhDpek6Vt4Ualo6jUopSTyeG1NWtrmWndbtO0L6l0psbChbIVzMWPSjiPChwz34UKdOhBFDAHpi4lrsw" />
+    <title lang="en">CBS Mornings</title>
+    <new />
   </programme>
   <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
@@ -87597,6 +88686,16 @@ Darrell breaks in the new guy; Brandi and Jarrod detect something mysterious in 
     <icon src="https://iptv-epg.org/images/OBNK38saK6J16z8_SWND9EU7ctXaZs_OirlmTh9PSUjkeKSTtbCGkHtAHVHr_A-_hlCMsw_t8BRA3fpgvghNQIo1ogSiuvWQVPSxOxHKKPo" />
     <title lang="en">Inside College Football</title>
   </programme>
+  <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S05 E47 — Less Is More Week
+Owen Wilson; Jessica Capshaw (ABC's "9-1-1 Nashville"); Monica Mangin shares deals to get a jump on Black Friday; Jean Chatzky.</desc>
+    <episode-num>S05 E47</episode-num>
+    <icon src="https://iptv-epg.org/images/hwTToNXNMPcUnsp30PBvh5d4IHl9-Zqfr-98gaQBEhNrZFso20D0eyEQ8Y0w5L94TT1eafydpWWY_D5vEzeqxCqDGF12RwUvAycxKhCA7cg" />
+    <title lang="en">Live with Kelly and Mark</title>
+    <new />
+  </programme>
   <programme start="20261112150000 +0000" stop="20261112170000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">News</category>
     <category lang="en">Talk</category>
@@ -88814,6 +89913,16 @@ Snap-to-snap 60-minute presentation of a Big Ten football game.</desc>
     <previously-shown />
     <title lang="en">B1G Football in 60</title>
   </programme>
+  <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S55 E39
+Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num>S55 E39</episode-num>
+    <icon src="https://iptv-epg.org/images/GGZFyk9YEKycV0r4uJQ1mfT5aLbPrEJs_DwQP5ho1M5CznmfOl5oVRVmLs_7iZdA4hTfKco9NZNkGfmLZOwnMk0QRHiMn5m0D1ReI2RIt9A" />
+    <title lang="en">The Price Is Right</title>
+    <new />
+  </programme>
   <programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="CartoonNetwork.us">
     <category lang="en">Adventure</category>
     <category lang="en">Animated</category>
@@ -89945,6 +91054,30 @@ Police exchange gunfire in the streets of Tampa with a man wanted for stabbing h
     <icon src="https://iptv-epg.org/images/---82gCX_Yu0qIM6wNzR8LC0BJrixy-hyEqOlAFCYCjFa_WZBqd_JIL-kAbwWDcja_Nt6R8kFuD8yicANw4hFMrHfJytc1LFLAF-iv-XMWE" />
     <title lang="en">Fantasy Football Today</title>
     <live />
+  </programme>
+  <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Peter Bergman</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Christel Khalil</actor>
+      <actor>Melody Scott</actor>
+      <actor>Michelle Stafford</actor>
+      <actor>Sharon Case</actor>
+      <actor>Sean Dominic</actor>
+      <actor>Melissa Egan</actor>
+      <actor>Conner Floyd</actor>
+      <actor>Rory Gibson</actor>
+      <actor>Camryn Grimes</actor>
+      <actor>Mark Grossman</actor>
+    </credits>
+    <desc lang="en">S54 E26
+Victor shares a page from his playbook with Chelsea; Adam shares damaging evidence with Jack; Phyllis gives Nick the third degree about Matt Clark's whereabouts.</desc>
+    <episode-num>S54 E26</episode-num>
+    <icon src="https://iptv-epg.org/images/tAlg58MjqJ8ghhdVkW5sozVMqJPMgqidJY-P0tELTFWS7FFDRI1wMAHWi92DLaWv6ZV_eeqfqhCZ2ooMMYCj-T1boiuHIxBtA8sCIRkTm6E" />
+    <title lang="en">The Young and the Restless</title>
+    <new />
   </programme>
   <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
@@ -91292,6 +92425,13 @@ An accused car thief jumps off a 36-foot bridge to avoid capture; an armed fugit
     <title lang="en">The Early Edge</title>
     <live />
   </programme>
+  <programme start="20261112180000 +0000" stop="20261112183000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">The latest local stories, breaking national news, weather and live interviews with community leaders about local events.</desc>
+    <icon src="https://iptv-epg.org/images/3Oc_a_QNhgWimke9CFbAt7Kqb79iBejjpGahsy_5Nqjt36Mdf0NNycTcfN_uSBWdwmsxsXepyjCOWq634wxmlLBswOv1oapw2Sb5vG3oiho" />
+    <title lang="en">Live at Lunch</title>
+    <new />
+  </programme>
   <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Game show</category>
     <category lang="en">Series</category>
@@ -92075,6 +93215,32 @@ Snap-to-snap 60-minute presentation of a Big Ten football game.</desc>
     <previously-shown />
     <title lang="en">B1G Football in 60</title>
   </programme>
+  <programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Katherine Kelly Lang</actor>
+      <actor>Jacqueline MacInnes Wood</actor>
+      <actor>Thorsten Kaye</actor>
+      <actor>Scott Clifton</actor>
+      <actor>Heather Tom</actor>
+      <actor>Don Diamont</actor>
+      <actor>Darin Brooks</actor>
+      <actor>John McCook</actor>
+      <actor>Lawrence Saint-Victor</actor>
+      <actor>Kimberlin Brown</actor>
+      <actor>Alley Mills</actor>
+      <actor>Jeremy Valdez</actor>
+    </credits>
+    <desc lang="en">S40 E48
+Katie delivers devastating news to Hope; Bill faces Ridge's fury as tensions explode; Sheila makes a discovery that could change everything.</desc>
+    <episode-num>S40 E48</episode-num>
+    <icon src="https://iptv-epg.org/images/FhDZE0-89gibPIZhdKu8sBNY9tAUgMPwn42K7PeQOkXrrN-yzDOetcNajVCgcMP-UY9PHEupP4gUBG8km1FCqUEVFB1tgqYx3zyqkkWLNk8" />
+    <title lang="en">The Bold and the Beautiful</title>
+    <new />
+  </programme>
   <programme start="20261112183000 +0000" stop="20261112184500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
@@ -92526,6 +93692,31 @@ A desperate couple hold a truck driver hostage in his own semi; marine patrol de
     <desc lang="en">Sports news and highlights.</desc>
     <icon src="https://iptv-epg.org/images/ddb4SfYOOX4wGEA1mHOS0YwNRUl0l5h3dbWrFS9sRuN8hcTkf97gyES2gigKmwE2Ay5N0jAZyram47-VJFtscxPg4lM8sBrbDL5NTBjTG90" />
     <title lang="en">CBS Sports HQ Spotlight</title>
+    <new />
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Clifton Davis</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Daphne Duplaix</actor>
+      <actor>Karla Mosley</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Brandon Claybon</actor>
+      <actor>Sean Freeman</actor>
+      <actor>Timon Kyle Durrett</actor>
+      <actor>Arielle Prepetit</actor>
+      <actor>Marquita Goings</actor>
+      <actor>Ambyr Michelle</actor>
+      <actor>Colby Muhammad</actor>
+    </credits>
+    <desc lang="en">S02 E209
+Martin's a man on a mission, with Naomi by his side; Dani keeps her eye on the prize; Chelsea and Kat come to Bill for help; Tomas leaves his lover spurned; Hayley's not buying what Leslie's selling.</desc>
+    <episode-num>S02 E209</episode-num>
+    <icon src="https://iptv-epg.org/images/7HdqF7yRU5HhuN567plONVoWD6qlamOQRJATpl5BnbuANPISpTf9asNalNwNutIfFlw88dH767bPqwEH9fCxGCUaun7s-1ht4LkjsSadygw" />
+    <title lang="en">Beyond the Gates</title>
     <new />
   </programme>
   <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="CBSWest_KCBS.us">
@@ -93831,6 +95022,16 @@ A young mother in Tulsa, Okla., is found shot dead on the side of a road; a phot
     <previously-shown />
     <title lang="en">B1G Today</title>
   </programme>
+  <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S18 E39
+Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.</desc>
+    <episode-num>S18 E39</episode-num>
+    <icon src="https://iptv-epg.org/images/04GoMjHvKZUz26jk9r10CwCSqY-r4kVnjQwJINl6GrQJWWX9GJc2OvBvXRl2IywlDplF4lFYdJJHxglpno4HQzCvv25FnZetyAVxUQdwqQk" />
+    <title lang="en">Let's Make a Deal</title>
+    <new />
+  </programme>
   <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="CWKTLA.us">
     <category lang="en">News</category>
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
@@ -95103,6 +96304,14 @@ An unarmed man is gunned down outside a Miami bar; a Dallas woman is found bludg
     <icon src="https://iptv-epg.org/images/ddb4SfYOOX4wGEA1mHOS0YwNRUl0l5h3dbWrFS9sRuN8hcTkf97gyES2gigKmwE2Ay5N0jAZyram47-VJFtscxPg4lM8sBrbDL5NTBjTG90" />
     <title lang="en">CBS Sports HQ Spotlight</title>
   </programme>
+  <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Exploring the challenges and triumphs of aging, and celebrating the wisdom, strength and beauty that come with life's later stages.</desc>
+    <icon src="https://iptv-epg.org/images/H4pJk_qFOKa5ADeqWeUfp4kv2-OlFj7MH7IGDHNgnYMBQAphOno3KEvs5nhKPRv-DBF8kpGcCpbXOLnEQUN2w-I9kfeEPWWSv0LK-zfSosc" />
+    <title lang="en">Aging Untold</title>
+    <new />
+  </programme>
   <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Drama</category>
     <category lang="en">Soap</category>
@@ -95855,6 +97064,12 @@ Tensions begin to ease between Frances and Robert; Frances' new lawyer makes a m
     <icon src="https://iptv-epg.org/images/Y-xJBwDmDyxk-qVchKVhbU1lVJc3E5giT11VLTFuCem6Nvd9j-b8QUbGrZ9AgYORvbLCAip6AmMLukyDfzhBT3QQZ-kxklZ-s7Gr6GXEn0g" />
     <title lang="en">Dim Sum Funeral</title>
   </programme>
+  <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <desc lang="en">Local Mingle</desc>
+    <icon src="https://iptv-epg.org/images/yoY4QHl3ljgyYfYVAdvXVjNFaPVQNAK_RRuXiMDu4XlUgX5QsPMr-JwtKiKDkiJw13wq_5K6_OuFvsb8anqXstuDd2b7INXrOaDUDGi2QrQ" />
+    <title lang="en">Local Mingle</title>
+  </programme>
   <programme start="20261112213000 +0000" stop="20261112214500 +0000" channel="CartoonNetwork.us">
     <category lang="en">Animated</category>
     <category lang="en">Children</category>
@@ -96222,6 +97437,13 @@ When a potential spree killer targets the most vulnerable in Tulsa, Okla., Detec
     <icon src="https://iptv-epg.org/images/gps-2N3-M89BT83DnZB6vf_e9pD_DJx0rw70YQJ8CcQJ8PXnvrRWEGbbyySKJvGI1H2km28qyptlog7f8fLbJPKAUG1Nnqb1fPTF662Ou2c" />
     <previously-shown />
     <title lang="en">B1G Today</title>
+  </programme>
+  <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="CBSWTVY.us">
+    <category lang="en">News</category>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <icon src="https://iptv-epg.org/images/xbP2ix2RX2NzjqNinfdatVb3CKDfuiBL0jI3EeWOXXSm0_oxZTSzaJQxYAOy-4K076BLyb7zyjgLTyUPlcYCUZA8wQwZX1uv6yVGc5wY0OI" />
+    <title lang="en">News First at Four</title>
+    <new />
   </programme>
   <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Entertainment</category>
@@ -97048,6 +98270,18 @@ From WakeMed Soccer Park in Cary, N.C.</desc>
     <title lang="en">Men's College Soccer</title>
     <live />
   </programme>
+  <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Interview</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S39 E44
+A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num>S39 E44</episode-num>
+    <icon src="https://iptv-epg.org/images/rMjZ3q3JiJwUFN2BvUphy7bFzjrWjTT393Fwpv3PMw3qI4uHmf3hd7fyM_fbUq4ZSE-_KCzqSkbMGPcIJ-QzJZXNqmbe72O0OVGWKpEyge4" />
+    <title lang="en">Inside Edition</title>
+    <new />
+  </programme>
   <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Entertainment</category>
     <category lang="en">Talk</category>
@@ -97375,6 +98609,14 @@ Showcasing the best fights from recent events, revealing backstories of the athl
     <icon src="https://iptv-epg.org/images/V_w8miaIMw9-0SqjMoBfwp0EHmh32CByyqGwUz68BR0kfpxacVCB_x4x7MZ2Nh5DY9b7e-RytnLvvFYmlPZInQHDhusdvdZRYbQYF8Lhy8U" />
     <previously-shown />
     <title lang="en">UFC Main Events</title>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="CBSWTVY.us">
+    <category lang="en">Community</category>
+    <category lang="en">News</category>
+    <desc lang="en">News4 at 5p</desc>
+    <icon src="https://iptv-epg.org/images/DwRK0CMRpoJYPJw4y-HbKRNIDYwCwHb1vZvn-4d2iAFylIvODsVNi7MEHGE7NCpK3_pHOUc5b_GBZsWU5vHMIYpBTRBJLj8H4iwFiHQ0jlY" />
+    <title lang="en">News4 at 5p</title>
+    <new />
   </programme>
   <programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="CBSWest_KCBS.us">
     <category lang="en">Law</category>
