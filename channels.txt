@@ -8,6 +8,7 @@ BigTen.us
 CartoonNetwork.us
 CBSSportsNetwork.us
 CBSWest_KCBS.us
+CBSWTVY.us
 ChicagoSportsNetwork.us
 CinemaxActionPacific.us
 CinemaxClassicsPacific.us
