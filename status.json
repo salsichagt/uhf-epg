@@ -1,44 +1,44 @@
 {
-  "updated_utc": "2026-11-12T18:18:49.676150+00:00",
+  "updated_utc": "2026-11-13T17:44:02.180268+00:00",
   "requested_unique_channels": 89,
   "found_channels": 88,
   "missing_channels": [
     "ShowtimeFamilyZone.us"
   ],
-  "programmes": 6696,
-  "window_start_utc": "2026-11-12T10:18:49.676150+00:00",
-  "window_end_utc": "2026-11-15T18:18:49.676150+00:00",
-  "epg_xml_bytes": 5705738,
-  "epg_gz_bytes": 1863258,
+  "programmes": 6526,
+  "window_start_utc": "2026-11-13T09:44:02.180268+00:00",
+  "window_end_utc": "2026-11-16T17:44:02.180268+00:00",
+  "epg_xml_bytes": 5565177,
+  "epg_gz_bytes": 1821752,
   "sources": {
     "au": {
       "requested_channels": 2,
       "found_channels": 2,
-      "programmes": 125,
+      "programmes": 119,
       "source": "https://iptv-epg.org/files/epg-au.xml.gz"
     },
     "ca": {
       "requested_channels": 1,
       "found_channels": 1,
-      "programmes": 65,
+      "programmes": 58,
       "source": "https://iptv-epg.org/files/epg-ca.xml.gz"
     },
     "mx": {
       "requested_channels": 1,
       "found_channels": 1,
-      "programmes": 173,
+      "programmes": 167,
       "source": "https://iptv-epg.org/files/epg-mx.xml.gz"
     },
     "uk": {
       "requested_channels": 23,
       "found_channels": 23,
-      "programmes": 1575,
+      "programmes": 1560,
       "source": "https://iptv-epg.org/files/epg-gb.xml.gz"
     },
     "us": {
       "requested_channels": 62,
       "found_channels": 61,
-      "programmes": 4758,
+      "programmes": 4622,
       "source": "https://iptv-epg.org/files/epg-us.xml.gz"
     }
   }
